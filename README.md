@@ -1,21 +1,20 @@
-# Hey there :wave:
+# :wave: Hello! I'm Henry. 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world</br>From a Networking and Cybersecurity Student">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henry-the-vietnamese/count.svg" />
 </p>
 
 
-## About me 👦
+## About me
 
-- I'm a Networking and Cybersecurity major Student!!
+- 👦 I'm a Networking and Cybersecurity major Student!!
 - 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2020 Goals: Work on more projects to enhance my learning
-- ⚡ 2021 Goals: Contribute more to Open Source projects
+- ⚡ 2021 Goals: Contribute more to open-source projects
 
 ## Get in touch :coffee:
 
