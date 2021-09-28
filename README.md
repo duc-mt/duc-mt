@@ -1,4 +1,4 @@
-# 👋🏾 👩🏾‍💻 Hi there, I'm Henry! 
+# 👋 Hi there, I'm Henry!
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
 <p align="center"> 
@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/henry-the-vietnamese/count.svg" />
 </p>
 
-## About me
+## 👩🏾‍💻 About me
 
 - 👦 I'm a Networking and Cybersecurity major Student!!
 - 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/
