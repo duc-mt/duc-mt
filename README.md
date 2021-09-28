@@ -1,6 +1,6 @@
-# :wave: Hello! I'm Henry. 
+# :wave: Hello World! 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world</br>From a Networking and Cybersecurity Student">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="I'm Henry - a Networking and Cybersecurity Student">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henry-the-vietnamese/count.svg" />
@@ -16,7 +16,7 @@
 - 🥅 2020 Goals: Work on more projects to enhance my learning
 - ⚡ 2021 Goals: Contribute more to open-source projects
 
-## Get in touch :coffee:
+## :coffee: Get in touch
 
 <a target="_blank" href="https://www.linkedin.com/in/tanducmai/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
