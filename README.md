@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Henry!
+## :wave: Hi there, I'm Henry.
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
 <p align="center"> 
@@ -30,7 +30,7 @@
 </a>
 
 
-### :zap: GitHub Stats
+## :zap: GitHub Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-the-vietnamese&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-the-vietnamese&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
