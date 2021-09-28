@@ -1,4 +1,4 @@
-## :wave: Hi there, I'm Henry.
+# :wave: Hi there, I'm Henry.
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
 <p align="center"> 
@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/henry-the-vietnamese/count.svg" />
 </p>
 
-## 👩🏾‍💻 About me
+# 👩🏾‍💻 About me
 
 - 👦 I'm a Networking and Cybersecurity major Student!!
 - 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/
@@ -15,7 +15,7 @@
 - 🥅 2021 Goal: Work on more projects to enhance my learning
 - ⚡ 2022 Goal: Contribute more to open-source projects
 
-## :coffee: Get in touch
+# :coffee: Get in touch
 
 <a target="_blank" href="https://www.linkedin.com/in/tanducmai/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +30,7 @@
 </a>
 
 
-## :zap: GitHub Stats
+# :zap: GitHub Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-the-vietnamese&show_icons=true&include_all_commits=true&theme=buefy&count_private=true&show_icons=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-the-vietnamese&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
