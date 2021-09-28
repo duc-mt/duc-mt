@@ -8,7 +8,7 @@
 </p>
 
 
-## About me 🧑
+## About me 👦
 
 - I'm a Networking and Cybersecurity major Student!!
 - 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/!
