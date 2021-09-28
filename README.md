@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hello World :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -8,7 +8,7 @@
 </p>
 
 
-## About me
+## About me 🧑
 
 - I'm a Networking and Cybersecurity major Student!!
 - 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/!
