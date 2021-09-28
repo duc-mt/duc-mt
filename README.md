@@ -12,8 +12,8 @@
 - 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Work on more projects to enhance my learning
-- ⚡ 2022 Goals: Contribute more to open-source projects
+- 🥅 2021 Goal: Work on more projects to enhance my learning
+- ⚡ 2022 Goal: Contribute more to open-source projects
 
 ## :coffee: Get in touch
 
@@ -32,5 +32,5 @@
 
 ## :zap: GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-the-vietnamese&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-the-vietnamese&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-the-vietnamese&show_icons=true&include_all_commits=true&theme=buefy&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-the-vietnamese&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
