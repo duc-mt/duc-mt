@@ -29,15 +29,5 @@
 
 ### :zap: GitHub Stats
 
-<table>
-<tr>
-	<td width="48%">
-		<img src="https://github-readme-stats.vercel.app/api?username=henry-the-vietnamese&show_icons=true&count_private=true,issues&hide_border=true" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-the-vietnamese&layout=compact&show_icons=true&hide_border=true" />
-	</td>
-	<td width="52%"><img alt="gif" align="right" src="python.gif"/>
-	</td>
-</tr>
-</table>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=henry-the-vietnamese&layout=compact&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=henry-the-vietnamese&show_icons=true&count_private=true,issues&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-the-vietnamese&layout=compact&show_icons=true&hide_border=true" />
