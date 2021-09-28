@@ -40,4 +40,4 @@
 </tr>
 </table>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=henry-the-vietnamese&layout=compact&show_icons=true&hide_border=true />
+<img src="https://activity-graph.herokuapp.com/graph?username=henry-the-vietnamese&layout=compact&show_icons=true&hide_border=true" />
