@@ -9,7 +9,7 @@
 # 👩🏾‍💻 About me
 
 - 👦 I'm a Networking and Cybersecurity major Student!!
-- 🔭 This is my website + portfolio: https://henry-the-vietnamese.github.io/cyberkungfu/
+- 🔭 This is my [website + programming portfolio](https://henry-the-vietnamese.github.io/cyberkungfu/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goal: Work on more projects to enhance my learning
