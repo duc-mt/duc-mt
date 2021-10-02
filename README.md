@@ -54,6 +54,8 @@
 </tr>
 </table>
 
+# :zap: GitHub Streak
+
 <div align=center>
-  <img width="75%" src="http://github-readme-streak-stats.herokuapp.com?user=henry-the-vietnamese&hide_border=true" />
+  <img width="75%" src="http://github-readme-streak-stats.herokuapp.com?user=henry-the-vietnamese&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" />
 </div>
