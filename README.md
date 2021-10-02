@@ -8,12 +8,12 @@
 
 # 👩🏾‍💻 About me
 
-- :technologist: I'm a Networking and Cybersecurity major Student!!
-- :telescope: This is my [website + programming portfolio](https://henry-the-vietnamese.github.io/cyberkungfu/)
-- :seedling: I’m currently learning Python and Networking
-- :dancers: I’m looking to work on open-source projects that empower individuals to solve problems and learn.
-- 🥅 Goal: Collaborate on more projects to enhance my learning
-- :speech_balloon: Favourite quote:
+- 👨‍💻: I'm a Networking and Cybersecurity major Student!!
+- 🔭: This is my [website + programming portfolio](https://henry-the-vietnamese.github.io/cyberkungfu/)
+- 🌱: I’m currently learning Python and Networking
+- 🌏: I’m looking to work on open-source projects that empower individuals to solve problems and learn.
+- 🥅: Collaborate on more projects to enhance my learning
+- 💬:
 <blockquote cite="https://www.goodreads.com/quotes/336994-the-only-thing-that-is-constant-is-change--">
     <p>The Only Thing That Is Constant Is Change.</p>
 </blockquote>
@@ -35,7 +35,7 @@
 </a>
 
 
-# :zap: GitHub Stats
+# :star: GitHub Stats
 
 <table border="0" align="center">
 <tr>
