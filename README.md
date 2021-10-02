@@ -53,3 +53,7 @@
 </td>
 </tr>
 </table>
+
+<div align=center>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=henry-the-vietnamese&hide_border=true" />
+</div>
