@@ -6,9 +6,9 @@
   <img src="https://profile-counter.glitch.me/henry-the-vietnamese/count.svg" />
 </p>
 
-# 👩🏾‍💻 About me
+# 👨‍💻 About me
 
-- 👨‍💻: I'm a Networking and Cybersecurity major Student!!
+- 💻: I'm a Networking and Cybersecurity major Student!!
 - 🔭: This is my [website + programming portfolio](https://henry-the-vietnamese.github.io/cyberkungfu/)
 - 🌱: I’m currently learning Python and Networking
 - 🌏: I’m looking to work on open-source projects that empower individuals to solve problems and learn.
