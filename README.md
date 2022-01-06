@@ -9,7 +9,7 @@
 # 👨‍💻 About me
 
 - 💻: I'm a Networking and Cybersecurity major Student!!
-- 🔭: This is my [website + programming portfolio](https://henry-the-vietnamese.github.io/cyberkungfu/)
+- 🔭: This is my [portfolio website](https://unruffled-chandrasekhar-374bc7.netlify.app/)
 - 🌱: I’m currently learning Python and Networking
 - 🌏: I’m looking to work on open-source projects that empower individuals to solve problems and learn.
 - 🥅: Collaborate on more projects to enhance my learning
