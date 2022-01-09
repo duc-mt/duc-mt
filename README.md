@@ -15,10 +15,8 @@
 - 🥅: Collaborate on more projects to enhance my learning
 - 💬:
 <blockquote cite="https://www.goodreads.com/quotes/336994-the-only-thing-that-is-constant-is-change--">
-    <p>The Only Thing That Is Constant Is Change.</p>
+    <p>It is not complicated, just unfamiliar.</p>
 </blockquote>
-
-— Heraclitus, Greek philosopher
 
 # :coffee: Get in touch
 
