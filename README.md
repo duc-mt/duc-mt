@@ -1,7 +1,7 @@
 # :wave: Hi there, I'm Henry!
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henry-the-vietnamese/count.svg" />
 </p>
