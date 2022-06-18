@@ -9,7 +9,7 @@
 # 👨‍💻 About me
 
 - 💻: I'm a Networking and Cybersecurity major Student!!
-- 🔭: This is my [programming portfolio && tech blog](https://blissful-mayer-90b8fc.netlify.app/)
+- 🔭: This is my [programming portfolio && tech blog](https://tanducmai.com/)
 - 🌱: I’m currently learning Python and Networking
 - 🌏: I’m looking to work on open-source projects that empower individuals to solve problems and learn.
 - 🥅: Collaborate on more projects to enhance my learning
@@ -32,13 +32,12 @@
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-
-# :star: GitHub Stats
+# :star: Stats
 
 <table border="0" align="center">
 <tr>
 <td align="center" width="324" rowspan="3" border="0">
-<img src="https://github.com/SNDST00M/SNDST00M/raw/main/console.svg" alt="Illustration" width="324" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Illustration" width="324" />
 </td>
 <td align="center" width="440" border="0">
 <img src="https://github-readme-stats.vercel.app/api?username=tanducmai&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
@@ -52,8 +51,12 @@
 </tr>
 </table>
 
-# :zap: GitHub Streak
+# :zap: Streak
 
 <div align=center>
   <img width="75%" src="http://github-readme-streak-stats.herokuapp.com?user=tanducmai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" />
 </div>
+
+<br />
+
+<a href="https://github.com/tanducmai/github-readme-activity-graph"><img alt="Tan Duc Mai;s graph" src="https://activity-graph.herokuapp.com/graph?username=tanducmai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
