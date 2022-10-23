@@ -8,11 +8,10 @@
 
 # 👨‍💻 About me
 
-- 💻: I'm a Networking and Cybersecurity major Student!!
-- 🔭: This is my [programming portfolio && tech blog](https://tanducmai.com/)
-- 🌱: I’m currently learning Python and Networking
-- 🌏: I’m looking to work on open-source projects that empower individuals to solve problems and learn.
-- 🥅: Collaborate on more projects to enhance my learning
+- 💻: I'm a Networking and Cybersecurity student.
+- 🔭: This is my [portfolio && website](https://tanducmai.com/)
+- 🌱: I'm currently learning everything that is technology-related, aside from univerity
+- 🌏: I regularly partake in open-source projects
 - 💬:
 <blockquote cite="https://www.goodreads.com/quotes/336994-the-only-thing-that-is-constant-is-change--">
     <p>It is not complicated, it is just unfamiliar.</p>
