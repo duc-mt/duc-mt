@@ -58,4 +58,4 @@
 
 <br />
 
-<a href="https://github.com/tanducmai/github-readme-activity-graph"><img alt="Tan Duc Mai;s graph" src="https://activity-graph.herokuapp.com/graph?username=tanducmai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/tanducmai/github-readme-activity-graph"><img alt="Tan Duc Mai's graph" src="https://activity-graph.herokuapp.com/graph?username=tanducmai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
