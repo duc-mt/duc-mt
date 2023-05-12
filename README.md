@@ -59,9 +59,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# :locked_with_key: PGP Public Key
+# 🔐 PGP Public Key
 
 <details>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
