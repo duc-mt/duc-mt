@@ -28,9 +28,6 @@
 <a target="_blank" href="https://www.instagram.com/henry.maii/">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a target="blank" href="https://twitter.com/henrymai372">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
 
 # :star: Stats
 
