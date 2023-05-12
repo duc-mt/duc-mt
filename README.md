@@ -9,13 +9,10 @@
 # :robot: About me
 
 - 💻: I'm a Networking and Cybersecurity student.
-- 🔭: This is my [portfolio && website](https://tanducmai.com/)
+- 🔭: This is my portfolio and personal blog [:link:](https://tanducmai.com/)
 - 🌱: I'm currently learning everything that is technology-related, aside from univerity
 - 🌏: I regularly partake in open-source projects
-- 💬:
-<blockquote cite="https://www.goodreads.com/quotes/336994-the-only-thing-that-is-constant-is-change--">
-    <p>It is not complicated, it is just unfamiliar.</p>
-</blockquote>
+- 💬: `It is not complicated, it is just unfamiliar.`
 
 # :coffee: Get in touch
 
