@@ -36,7 +36,7 @@
 - [Filesystem Hierarchy Standard - FHS](https://tanducmai.com/blog/systems-administration/filesystem-hierarchy-standard-fhs/)
 <!-- BLOG-POST-LIST:END -->
 
-# :input_numbers: Statistic
+# 🔢 Statistic
 
 <table border="0" align="center">
   <tr>
@@ -54,16 +54,6 @@
     </td>
   </tr>
 </table>
-
-<div align=center>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tanducmai&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Statistics" width="440" />
-</div>
-
-<br>
-
-<div align=center>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanducmai&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440" alt="Stats" width="440" />
-</div>
 
 # :desktop_computer: Latest Coding Activity
 
