@@ -29,12 +29,11 @@
 # :scroll: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Special Directories and Files](https://tanducmai.com/blog/systems-administration/special-directories-and-files/)
-- [Ownership and Permissions](https://tanducmai.com/blog/systems-administration/ownership-and-permissions/)
-- [System and User Security](https://tanducmai.com/blog/systems-administration/system-and-user-security/)
-- [Process and Memory Management](https://tanducmai.com/blog/systems-administration/process-and-memory-management/)
-- [Filesystem Hierarchy Standard - FHS](https://tanducmai.com/blog/systems-administration/filesystem-hierarchy-standard-fhs/)
-<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Special Directories and Files](https://tanducmai.com/blog/systems-administration/special-directories-and-files/) - 
+ - 🌮 [Ownership and Permissions](https://tanducmai.com/blog/systems-administration/ownership-and-permissions/) - 
+ - 🌮 [System and User Security](https://tanducmai.com/blog/systems-administration/system-and-user-security/) - 
+ - 💯 [Process and Memory Management](https://tanducmai.com/blog/systems-administration/process-and-memory-management/) - 
+ - 🌮 [Filesystem Hierarchy Standard - FHS](https://tanducmai.com/blog/systems-administration/filesystem-hierarchy-standard-fhs/) - <!-- BLOG-POST-LIST:END -->
 
 # 🔢 Statistics
 
