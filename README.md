@@ -51,4 +51,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-# 🔐 PGP Public Key ![:link:](./pubkey.asc)
+# 🔐 PGP Public Key ![🔗](./pubkey.asc)
