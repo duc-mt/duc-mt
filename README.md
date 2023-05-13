@@ -38,6 +38,23 @@
 
 # :desktop_computer: Statistic
 
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="324" rowspan="3" border="0">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Illustration" width="324" />
+    </td>
+    <td align="center" width="440" border="0">
+      <img src="https://github-readme-stats.vercel.app/api?username=tanducmai&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td align="center" width="440" border="0">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanducmai&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440" alt="Stats" width="440" />
+    </td>
+  </tr>
+</table>
+
 <div align=center>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tanducmai&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Statistics" width="440" />
 </div>
@@ -47,6 +64,8 @@
 <div align=center>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanducmai&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440" alt="Stats" width="440" />
 </div>
+
+### Latest Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
