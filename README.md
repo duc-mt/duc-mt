@@ -36,7 +36,7 @@
 - [Filesystem Hierarchy Standard - FHS](https://tanducmai.com/blog/systems-administration/filesystem-hierarchy-standard-fhs/)
 <!-- BLOG-POST-LIST:END -->
 
-# 🔢 Statistic
+# 🔢 Statistics
 
 <table border="0" align="center">
   <tr>
@@ -55,14 +55,14 @@
   </tr>
 </table>
 
-# :desktop_computer: Latest Coding Activity
+# :desktop_computer: Latest Coding Activities
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-# :keyboard: Latest StackOverflow Activity
+# :keyboard: Latest StackOverflow Activities
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-# [🔐 PGP Public Key](./pubkey.asc)
+# [🔐 My PGP Public Key](./pubkey.asc)
