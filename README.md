@@ -26,7 +26,12 @@
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-# :star: Stats
+# :scroll: Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+# :desktop_computer: Statistic
 
 <div align=center>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tanducmai&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Statistics" width="440" />
@@ -38,21 +43,8 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanducmai&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440" alt="Stats" width="440" />
 </div>
 
-# :zap: Streak
-
-<div align=center>
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=tanducmai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" />
-</div>
-
-# :desktop_computer: This Week I Spent Time On
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-# :scroll: Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 # 🔐 PGP Public Key
 
