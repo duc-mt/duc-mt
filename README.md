@@ -36,7 +36,7 @@
 - [Filesystem Hierarchy Standard - FHS](https://tanducmai.com/blog/systems-administration/filesystem-hierarchy-standard-fhs/)
 <!-- BLOG-POST-LIST:END -->
 
-# :desktop_computer: Statistic
+# :input_numbers: Statistic
 
 <table border="0" align="center">
   <tr>
@@ -65,9 +65,14 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanducmai&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440" alt="Stats" width="440" />
 </div>
 
-### Latest Activity
+# :desktop_computer: Latest Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+# :keyboard: Latest StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 # [🔐 PGP Public Key](./pubkey.asc)
