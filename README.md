@@ -9,9 +9,9 @@
 # :robot: About me
 
 - 💻: I'm a Networking and Cybersecurity student.
-- 🔭: This is my portfolio and personal blog [:link:](https://tanducmai.com/)
-- 🌱: I'm currently learning everything that is technology-related, aside from univerity
-- 🌏: I regularly partake in open-source projects
+- 🔭: [This](https://tanducmai.com/) is my portfolio and personal blog.
+- 🌱: I'm currently learning everything that is technology-related.
+- 🌏: I regularly partake in open-source projects.
 - 💬: `It is not complicated, it is just unfamiliar.`
 
 # :coffee: Get in touch
