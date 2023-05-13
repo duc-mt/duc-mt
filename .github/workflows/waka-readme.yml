@@ -1,0 +1,24 @@
+name: Waka Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # runs at every 12AM UTC
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "Update with the latest coding statistics"
+          SHOW_TOTAL: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
