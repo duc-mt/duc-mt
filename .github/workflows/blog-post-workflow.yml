@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog posts
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
           feed_list: "https://tanducmai.com/blog/index.xml"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) - $categories"
+          template: "$newline $emojiKey(💯,🔥,💫,🚀,🌮) $date - [$title]($url)"
           date_format: "UTC:mmmm d, yyyy"
           commit_message: "Update with the latest blog posts"
           remove_duplicates: true

@@ -1,15 +1,21 @@
-name: Latest StackOverflow activity
+name: Latest StackOverflow activities
+
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
+    - cron: '0 * * * *'
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
-    name: Update README with latest activity from StackOverflow
+    name: Update README with latest activities from StackOverflow
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@0.8.4
+      - name: Checkout
+        uses: actions/checkout@v3.5.2
+      - name: Pull in @tanducmai StackOverflow activities
+        uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/16999206"
