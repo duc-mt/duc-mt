@@ -3,7 +3,7 @@ name: Latest StackOverflow activities
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 12,21 * * *"
 permissions:
   contents: write
 
@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3.5.2
+        uses: actions/checkout@main
       - name: Pull in @tanducmai StackOverflow activities
-        uses: gautamkrishnar/blog-post-workflow@1.8.4
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/16999206"
           template: "<tr><td>$title</td><td>$url</td></tr>"
-          commit_message: "Update with the latest StackOverflow activities"
+          commit_message: "Update README with the latest StackOverflow activities"
