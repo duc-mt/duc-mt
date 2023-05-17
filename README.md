@@ -1,5 +1,3 @@
-# :wave: Hi there, I'm Henry!
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
 <p align="center">
   Visitor count<br>
@@ -78,4 +76,8 @@ Python       1 min           ░░░░░░░░░░░░░░░░░
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-# [🔐 My PGP Public Key](./pubkey.asc)
+# 🔐 My PGP Public Key
+
+```bash
+$ gpg --recv-keys D2F1F3739A4E465E737C1F38F9E91488183ED044
+```
