@@ -56,7 +56,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 19 hrs 49 mins
 
 Bash                       9 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.21 %
