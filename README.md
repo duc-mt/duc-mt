@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 26 mins
+Total Time: 22 hrs 45 mins
 
-Bash                       11 hrs 2 mins   ████████████▒░░░░░░░░░░░░   49.19 %
-Markdown                   4 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Text                       2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-Other                      1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Vim Script                 1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Bash                       11 hrs 15 mins  ████████████▒░░░░░░░░░░░░   49.52 %
+Markdown                   4 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+Text                       2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Other                      1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+YAML                       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
