@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-# :desktop_computer: Latest Coding Activities
+# :desktop_computer: Scripting Time
 
 <!--START_SECTION:waka-->
 
@@ -68,7 +68,7 @@ Vim Script                 1 hr 30 mins    >------------------------   05.58 %
 
 <!--END_SECTION:waka-->
 
-# :keyboard: Latest StackOverflow Activities
+# :keyboard: StackOverflow Activities
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
