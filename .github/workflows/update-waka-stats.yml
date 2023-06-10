@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
