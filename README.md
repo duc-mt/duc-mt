@@ -24,7 +24,7 @@
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-# :scroll: Latest Blog Posts
+# :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 May 5, 2023 - [Special Directories and Files](https://tanducmai.com/posts/systems-administration/special-directories-and-files/)
