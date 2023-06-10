@@ -17,7 +17,7 @@ jobs:
       - name: Pull in tanducmai.com posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://tanducmai.com/blog/index.xml"
+          feed_list: "https://tanducmai.com/posts/index.xml"
           template: "$newline - $emojiKey(💯,🔥,💫,🚀,🌮) $date - [$title]($url)"
           date_format: "UTC:mmmm d, yyyy"
           commit_message: "Update README with the latest blog posts"
