@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 hrs 41 mins
+Total Time: 32 hrs 22 mins
 
-Bash                       12 hrs 1 min    >>>>>>>>>>---------------   40.50 %
-Markdown                   5 hrs 3 mins    >>>>---------------------   17.04 %
-TOML                       3 hrs 13 mins   >>>----------------------   10.88 %
-YAML                       3 hrs 7 mins    >>>----------------------   10.54 %
-Text                       2 hrs 53 mins   >>-----------------------   09.73 %
+Bash                       14 hrs 12 mins  >>>>>>>>>>>--------------   43.87 %
+Markdown                   5 hrs 3 mins    >>>>---------------------   15.63 %
+TOML                       3 hrs 43 mins   >>>----------------------   11.50 %
+YAML                       3 hrs 8 mins    >>-----------------------   09.71 %
+Text                       2 hrs 53 mins   >>-----------------------   08.92 %
 ```
 
 <!--END_SECTION:waka-->
