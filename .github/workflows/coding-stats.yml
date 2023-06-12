@@ -1,4 +1,4 @@
-name: Update coding statistics
+name: 💻 Update coding statistics
 
 on:
   workflow_dispatch:
