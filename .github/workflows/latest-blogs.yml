@@ -1,4 +1,4 @@
-name: 📚 Update latest blogs
+name: 📜 Update latest blogs
 
 on:
   workflow_dispatch:
