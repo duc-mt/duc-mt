@@ -1,4 +1,4 @@
-name: ⌨️ Update StackOverflow activities
+name: 💻 Update StackOverflow activities
 
 on:
   workflow_dispatch:
