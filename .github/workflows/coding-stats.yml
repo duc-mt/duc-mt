@@ -1,7 +1,6 @@
 name: 💻 Update coding statistics
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
