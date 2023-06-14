@@ -1,21 +1,24 @@
-name: Update StackOverflow activities
+name: ⌨️ Update StackOverflow activities
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update:
+    name: Update
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 Fetch Repository Contents
+      - name: 📥 Checkout Repository
         uses: actions/checkout@main
+        with:
+          fetch-depth: 0
         
-      - name: Pull in @tanducmai StackOverflow activities
+      - name: ⤵️ Pull in @tanducmai Activities
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/16999206"
           template: "<tr><td>$title</td><td>$url</td></tr>"
-          commit_message: "Update with the latest StackOverflow activities"
+          commit_message: "docs(readme): update StackOverflow activities"
