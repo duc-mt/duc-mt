@@ -1,12 +1,13 @@
-name: 💻 Update coding statistics
+name: 🧮 Update coding statistics
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update:
+    name: Update
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
