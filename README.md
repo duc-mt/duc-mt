@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World"><p align="center"></p>
 
-# :robot: About me
+# :robot: About Me
 
 - 💻: I'm a Networking and Cybersecurity student.
 - 🔭: [This](https://tanducmai.com/) is my portfolio and personal blog.
@@ -8,7 +8,7 @@
 - 🌏: I regularly partake in open-source projects.
 - 💬: `It is not complicated, it is just unfamiliar.`
 
-# :coffee: Get in touch
+# :coffee: Get in Touch
 
 <a target="_blank" href="https://www.linkedin.com/in/tanducmai/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,15 +20,9 @@
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<details>
+# 🔐 My PGP Public Key
 
-  <summary>🔐 My PGP Public Key</summary>
-
-```bash
-$ gpg --recv-keys D2F1F3739A4E465E737C1F38F9E91488183ED044
-```
-  
-</details>
+`D2F1F3739A4E465E737C1F38F9E91488183ED044`
 
 # :scroll: On My Blog
 
