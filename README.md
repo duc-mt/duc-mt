@@ -110,7 +110,7 @@ C                        1 repo              █░░░░░░░░░░�
  Last Updated on 15/06/2023 01:38:50 UTC
 <!--END_SECTION:waka-->
 
-# :keyboard: StackOverflow Activities
+# 💻 StackOverflow Activities
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
