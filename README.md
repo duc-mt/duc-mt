@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World"><p align="center"></p>
 
+![Stats Update](https://github.com/tanducmai/docs/actions/workflows/waka-stats.yml/badge.svg)
+
 # :robot: About Me
 
 - 💻: I'm a Networking and Cybersecurity student.
