@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World"><p align="center"></p>
 
-![Stats Update](https://github.com/tanducmai/docs/actions/workflows/waka-stats.yml/badge.svg)
+![](https://github.com/tanducmai/tanducmai/actions/workflows/waka-stats.yml/badge.svg)
+![](https://github.com/tanducmai/tanducmai/actions/workflows/latest-blogs.yml/badge.svg)
+![](https://github.com/tanducmai/tanducmai/actions/workflows/stackoverflow-activities.yml/badge.svg)
 
 # :robot: About Me
 
