@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World"><p align="center"></p>
+<p align="center"><img src="assets/banner.png" /></p>
 
 ![](https://github.com/tanducmai/tanducmai/actions/workflows/waka-stats.yml/badge.svg)
 ![](https://github.com/tanducmai/tanducmai/actions/workflows/latest-blogs.yml/badge.svg)
 ![](https://github.com/tanducmai/tanducmai/actions/workflows/stackoverflow-activities.yml/badge.svg)
 
-# :robot: About Me
+# $ whoami
 
 - 💻: I'm a Networking and Cybersecurity student.
 - 🔭: [This](https://tanducmai.com/) is my portfolio and personal blog.
@@ -118,3 +118,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+<p align="center"><img src="assets/developer.gif" /></p>
