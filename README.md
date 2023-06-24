@@ -28,7 +28,7 @@
 </a>
 
 
-# 🔐 My Public Key
+# 🔐 My PGP Public Key
 
 `D2F1F3739A4E465E737C1F38F9E91488183ED044`
 
