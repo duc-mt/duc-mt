@@ -37,9 +37,9 @@
 <!-- BLOG-POST-LIST:START -->
  - 💯 May 5, 2023 - [Special Directories and Files](https://tanducmai.com/posts/systems-administration/special-directories-and-files/)
  - 🔥 April 28, 2023 - [Ownership and Permissions](https://tanducmai.com/posts/systems-administration/ownership-and-permissions/)
- - 💫 April 20, 2023 - [System and User Security](https://tanducmai.com/posts/systems-administration/system-and-user-security/)
- - 🚀 April 17, 2023 - [Process and Memory Management](https://tanducmai.com/posts/systems-administration/process-and-memory-management/)
- - 🌮 April 15, 2023 - [Filesystem Hierarchy Standard - FHS](https://tanducmai.com/posts/systems-administration/filesystem-hierarchy-standard-fhs/)<!-- BLOG-POST-LIST:END -->
+ - 💫 April 24, 2023 - [Creating Users and Groups](https://tanducmai.com/posts/systems-administration/creating-users-and-groups/)
+ - 🚀 April 20, 2023 - [System and User Security](https://tanducmai.com/posts/systems-administration/system-and-user-security/)
+ - 🌮 April 17, 2023 - [Process and Memory Management](https://tanducmai.com/posts/systems-administration/process-and-memory-management/)<!-- BLOG-POST-LIST:END -->
 
 # 🔢 Statistics
 
