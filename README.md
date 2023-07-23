@@ -12,7 +12,15 @@
 - 🌏: I regularly partake in open-source projects.
 - 💬: `It is not complicated, it is just unfamiliar.`
 
-# :coffee: Get in Touch
+# 🪧 NPX Card
+
+Connect with me via the terminal with the following `npx` command.
+
+```bash
+npx tanducmai
+```
+
+# ☕ Get in Touch
 
 <a target="_blank" href="https://www.linkedin.com/in/tanducmai/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,12 +35,11 @@
   <img alt="StackOverflow" src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" />
 </a>
 
-
 # 🔐 My PGP Key Fingerprint
 
 `D2F1F3739A4E465E737C1F38F9E91488183ED044`
 
-# :scroll: On My Blog
+# 📜 On My Blog
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 May 5, 2023 - [Special Directories and Files](https://tanducmai.com/posts/systems-administration/special-directories-and-files/)
