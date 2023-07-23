@@ -1,6 +1,6 @@
 {
   "name": "tanducmai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "<p align=\"center\"><img src=\"assets/banner.png\" /></p>",
   "main": "index.js",
   "bin": {
