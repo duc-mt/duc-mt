@@ -20,13 +20,13 @@ const questions = [
     {
         type: "list",
         name: "action",
-        message: "What you want to do?",
+        message: "What do you want to do?",
         choices: [
             {
                 name: `Send me an ${chalk.green.bold("email")}?`,
                 value: () => {
                     open("mailto:henryfromvietnam@gmail.com");
-                    console.log("\nDone, see you soon at inbox.\n");
+                    console.log("\nDone, see you soon at inbox.");
                 }
             },
             {
@@ -40,23 +40,23 @@ const questions = [
                     let pipe = request('https://tanducmai.com/resume/TanDucMai_Resume.pdf').pipe(fs.createWriteStream('./TanDucMai_Resume.pdf'));
                     pipe.on("finish", function () {
                         let downloadPath = path.join(process.cwd(), 'TanDucMai_Resume.pdf')
-                        console.log(`\nResume downloaded at ${downloadPath} \n`);
+                        console.log(`\nResume downloaded at ${downloadPath}`);
                         open(downloadPath)
                         loader.stop();
                     });
                 }
             },
             {
-                name: `Head to my ${chalk.magentaBright.bold("website")}?`,
+                name: `Head to my ${chalk.redBright.bold("website")}?`,
                 value: () => {
                     open('https://tanducmai.com/');
-                    console.log("\nDone, happy browsing! \n");
+                    console.log("\nDone, happy browsing!");
                 }
             },
             {
                 name: "Just quit.",
                 value: () => {
-                    console.log("Hasta la vista.\n");
+                    console.log("Cheers!");
                 }
             }
         ]
@@ -97,7 +97,7 @@ const me = boxen(
         `${data.labelCard}  ${data.npx}`,
         ``,
         `${chalk.italic(
-            "I am currently looking for new opportunities,"
+            "I am currently looking for opportunities,"
         )}`,
         `${chalk.italic("my inbox is always open. Whether you have a")}`,
         `${chalk.italic(
@@ -117,12 +117,5 @@ const me = boxen(
 );
 
 console.log(me);
-const tip = [
-    `Tip: Try ${chalk.cyanBright.bold(
-        "ctrl/cmd + left click"
-    )} on the links above`,
-    '',
-].join("\n");
-console.log(tip);
 
 prompt(questions).then(answer => answer.action());
