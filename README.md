@@ -1,8 +1,8 @@
 <p align="center"><img src="assets/banner.png" /></p>
 
-![](https://github.com/tanducmai/tanducmai/actions/workflows/waka-stats.yml/badge.svg)
-![](https://github.com/tanducmai/tanducmai/actions/workflows/latest-blogs.yml/badge.svg)
-![](https://github.com/tanducmai/tanducmai/actions/workflows/stackoverflow-activities.yml/badge.svg)
+[//]: ![](https://github.com/tanducmai/tanducmai/actions/workflows/waka-stats.yml/badge.svg)
+[//]: ![](https://github.com/tanducmai/tanducmai/actions/workflows/latest-blogs.yml/badge.svg)
+[//]: ![](https://github.com/tanducmai/tanducmai/actions/workflows/stackoverflow-activities.yml/badge.svg)
 
 # $ whoami
 
@@ -12,9 +12,9 @@
 - 🌏: I regularly partake in open-source projects.
 - 💬: `It is not complicated, it is just unfamiliar.`
 
-# 🪧 NPX Card
+# 🪧 Personal Card
 
-Connect with me via the terminal with the following `npx` command.
+Connect with me via the terminal by issuing the following `npx` command:
 
 ```bash
 npx tanducmai
