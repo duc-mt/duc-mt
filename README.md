@@ -51,7 +51,7 @@ npx tanducmai
 # 🔢 Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -122,7 +122,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2023 13:17:21 UTC
+ Last Updated on 24/08/2023 14:13:52 UTC
 <!--END_SECTION:waka-->
 
 # 💻 StackOverflow Activities
