@@ -42,11 +42,11 @@ npx tanducmai
 # 📜 On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 August 25, 2023 - [Listening - Fill in the Blanks](https://tanducmai.com/posts/glossaries/lfib/)
- - 🔥 August 24, 2023 - [Vocabulary - Food](https://tanducmai.com/posts/glossaries/vocabulary-food/)
- - 💫 August 23, 2023 - [Scrum Guide Notes](https://tanducmai.com/posts/agile-development-and-governance/scrum-guide-notes/)
- - 🚀 August 22, 2023 - [Reading - Fill in the Blanks](https://tanducmai.com/posts/glossaries/rfib/)
- - 🌮 August 22, 2023 - [Vocabulary - Space and Solar System](https://tanducmai.com/posts/glossaries/vocabulary-space-and-solar-system/)<!-- BLOG-POST-LIST:END -->
+ - 💯 August 29, 2023 - [Story Points](https://tanducmai.com/posts/agile-development-and-governance/story-points/)
+ - 🔥 August 25, 2023 - [Listening - Fill in the Blanks](https://tanducmai.com/posts/glossaries/lfib/)
+ - 💫 August 24, 2023 - [Vocabulary - Food](https://tanducmai.com/posts/glossaries/vocabulary-food/)
+ - 🚀 August 23, 2023 - [Scrum Guide Notes](https://tanducmai.com/posts/agile-development-and-governance/scrum-guide-notes/)
+ - 🌮 August 22, 2023 - [Reading - Fill in the Blanks](https://tanducmai.com/posts/glossaries/rfib/)<!-- BLOG-POST-LIST:END -->
 
 # 🔢 Statistics
 
