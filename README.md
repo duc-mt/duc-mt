@@ -7,7 +7,7 @@
 # $ whoami
 
 - 💻: I'm a Networking and Cybersecurity student.
-- 🔭: [My](https://tanducmai.com/) portfolio and personal blog.
+- 🔭: [My](https://tanducmai.com/) portfolio and continuous-learning blog.
 - 🌱: I'm currently learning everything that is cybersecurity-related.
 - 🌏: I regularly partake in open-source projects.
 - 💬: `It is not complicated, it is just unfamiliar.`
