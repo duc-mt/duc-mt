@@ -42,7 +42,7 @@ npx tanducmai
 # 📜 On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 August 30, 2023 - [Vocabulary - Human](https://tanducmai.com/posts/glossaries/vocabulary-animal/)
+ - 💯 August 30, 2023 - [Vocabulary - Animal](https://tanducmai.com/posts/glossaries/vocabulary-animal/)
  - 🔥 August 29, 2023 - [Story Points](https://tanducmai.com/posts/agile-development-and-governance/story-points/)
  - 💫 August 25, 2023 - [Listening - Fill in the Blanks](https://tanducmai.com/posts/glossaries/lfib/)
  - 🚀 August 24, 2023 - [Vocabulary - Food](https://tanducmai.com/posts/glossaries/vocabulary-food/)
