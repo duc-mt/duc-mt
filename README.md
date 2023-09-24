@@ -51,7 +51,7 @@ npx tanducmai
 # 🔢 Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -96,14 +96,14 @@ Sunday                   388 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Bash                     1 hr 23 mins        █████████████████████████   98.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Bash                     1 hr 9 mins         ████████████████████████░   95.79 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Vim                      1 hr 24 mins        █████████████████████████   100.00 % 
+Vim                      1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 24 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2023 15:13:29 UTC
+ Last Updated on 24/09/2023 16:16:34 UTC
 <!--END_SECTION:waka-->
 
 # 💻 StackOverflow Activities
