@@ -59,7 +59,7 @@ npx tanducmai
 
 **🐱 My GitHub Data** 
 
-> 📦 236.1 kB Used in GitHub's Storage 
+> 📦 236.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,681 Contributions in the Year 2023
  > 
@@ -96,14 +96,13 @@ Sunday                   387 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Bash                     4 mins              █████████████████████░░░░   82.31 % 
-GDScript3                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +118,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2023 14:15:30 UTC
+ Last Updated on 03/10/2023 15:17:08 UTC
 <!--END_SECTION:waka-->
 
 # 💻 StackOverflow Activities
