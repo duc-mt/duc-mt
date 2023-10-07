@@ -6,13 +6,13 @@
 
 # $ whoami
 
-- 💻: I'm a Networking and Cybersecurity student.
-- 🔭: [My](https://tanducmai.com/) portfolio and continuous-learning blog.
-- 🌱: I'm currently learning everything that is cybersecurity-related.
-- 🌏: I regularly partake in open-source projects.
-- 💬: `It is not complicated, it is just unfamiliar.`
+- :mortar_board:: I'm a Networking and Cybersecurity student.
+- :telescope:: [My](https://tanducmai.com/) portfolio and continuous-learning blog.
+- :seedling:: I'm currently learning everything that is cybersecurity-related.
+- :earth_asia:: I regularly partake in open-source projects.
+- :speech_balloon:: `It is not complicated, it is just unfamiliar.`
 
-# 🪧 Personal Card
+# :credit_card: Personal Card
 
 Connect with me via the terminal by issuing the following `npx` command:
 
@@ -20,7 +20,7 @@ Connect with me via the terminal by issuing the following `npx` command:
 npx tanducmai
 ```
 
-# ☕ Get in Touch
+# :coffee: Get in Touch
 
 <a target="_blank" href="https://www.linkedin.com/in/tanducmai/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,11 +35,11 @@ npx tanducmai
   <img alt="StackOverflow" src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" />
 </a>
 
-# 🔐 My PGP Key Fingerprint
+# :closed_lock_with_key: My PGP Key Fingerprint
 
 `D2F1F3739A4E465E737C1F38F9E91488183ED044`
 
-# 📜 On My Blog
+# :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
  - 💯 September 8, 2023 - [Vocabulary - Plant](https://tanducmai.com/posts/glossaries/vocabulary-plant/)
@@ -48,7 +48,7 @@ npx tanducmai
  - 🚀 August 29, 2023 - [Story Points](https://tanducmai.com/posts/agile-development-and-governance/story-points/)
  - 🌮 August 25, 2023 - [Listening - Fill in the Blanks](https://tanducmai.com/posts/glossaries/lfib/)<!-- BLOG-POST-LIST:END -->
 
-# 🔢 Statistics
+# :1234: Statistics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2054%20mins-blue)
@@ -121,7 +121,7 @@ HTML                     1 repo              █░░░░░░░░░░�
  Last Updated on 07/10/2023 08:16:55 UTC
 <!--END_SECTION:waka-->
 
-# 💻 StackOverflow Activities
+# :computer: StackOverflow Activities
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
