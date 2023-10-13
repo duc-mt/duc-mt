@@ -17,7 +17,7 @@
 Connect with me via the terminal by issuing the following `npx` command:
 
 ```bash
-npx tanducmai
+$ npx tanducmai
 ```
 
 # :coffee: Get in Touch
@@ -35,7 +35,7 @@ npx tanducmai
   <img alt="StackOverflow" src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" />
 </a>
 
-# :closed_lock_with_key: My PGP Key Fingerprint
+# :closed_lock_with_key: PGP Key Fingerprint
 
 `D2F1F3739A4E465E737C1F38F9E91488183ED044`
 
