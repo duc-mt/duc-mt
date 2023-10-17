@@ -42,10 +42,10 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 October 14, 2023 - [Write From Dictation - WFD](https://tanducmai.com/posts/glossaries/wfd/)
- - 🔥 September 8, 2023 - [Vocabulary - Plant](https://tanducmai.com/posts/glossaries/vocabulary-plant/)
- - 💫 September 7, 2023 - [Vocabulary - Money](https://tanducmai.com/posts/glossaries/vocabulary-money/)
- - 🚀 August 30, 2023 - [Vocabulary - Animal](https://tanducmai.com/posts/glossaries/vocabulary-animal/)
+ - 💯 October 14, 2023 - [Write From Dictation - WFD](https://tanducmai.com/posts/glossaries/pte/wfd/)
+ - 🔥 September 8, 2023 - [Vocabulary - Plant](https://tanducmai.com/posts/glossaries/vocabulary/vocabulary-plant/)
+ - 💫 September 7, 2023 - [Vocabulary - Money](https://tanducmai.com/posts/glossaries/vocabulary/vocabulary-money/)
+ - 🚀 August 30, 2023 - [Vocabulary - Animal](https://tanducmai.com/posts/glossaries/vocabulary/vocabulary-animal/)
  - 🌮 August 29, 2023 - [Story Points](https://tanducmai.com/posts/agile-development-and-governance/story-points/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
