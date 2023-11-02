@@ -42,11 +42,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 October 19, 2023 - [Vocabulary - Moral Conduct and Education](https://tanducmai.com/posts/glossaries/vocabulary/moral-conduct-education/)
- - 🔥 October 5, 2023 - [Vocabulary - Internet Education](https://tanducmai.com/posts/glossaries/vocabulary/internet-education/)
- - 💫 September 8, 2023 - [Vocabulary - Plant](https://tanducmai.com/posts/glossaries/vocabulary/plant/)
- - 🚀 September 7, 2023 - [Vocabulary - Money](https://tanducmai.com/posts/glossaries/vocabulary/money/)
- - 🌮 August 30, 2023 - [Vocabulary - Animal](https://tanducmai.com/posts/glossaries/vocabulary/animal/)<!-- BLOG-POST-LIST:END -->
+ - 💯 November 2, 2023 - [Health](https://tanducmai.com/posts/glossaries/vocabulary/veganism/)
+ - 🔥 October 19, 2023 - [Vocabulary - Moral Conduct and Education](https://tanducmai.com/posts/glossaries/vocabulary/moral-conduct-education/)
+ - 💫 October 5, 2023 - [Vocabulary - Internet Education](https://tanducmai.com/posts/glossaries/vocabulary/internet-education/)
+ - 🚀 September 8, 2023 - [Vocabulary - Plant](https://tanducmai.com/posts/glossaries/vocabulary/plant/)
+ - 🌮 September 7, 2023 - [Vocabulary - Money](https://tanducmai.com/posts/glossaries/vocabulary/money/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
