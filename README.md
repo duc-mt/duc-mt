@@ -42,11 +42,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 November 18, 2023 - [Vocabulary - Environment](https://tanducmai.com/posts/glossaries/vocabulary/environment/)
- - 🔥 November 17, 2023 - [Vocabulary - Gender Equality](https://tanducmai.com/posts/glossaries/vocabulary/gender-equality/)
- - 💫 November 16, 2023 - [Vocabulary - Family](https://tanducmai.com/posts/glossaries/vocabulary/family/)
- - 🚀 November 15, 2023 - [Vocabulary - Government](https://tanducmai.com/posts/glossaries/vocabulary/government/)
- - 🌮 November 14, 2023 - [Analysis of Optus 2023 Outage](https://tanducmai.com/posts/blogs/analysis-of-optus-2023-outage/)<!-- BLOG-POST-LIST:END -->
+ - 💯 November 19, 2023 - [Vocabulary - Sports](https://tanducmai.com/posts/glossaries/vocabulary/sports/)
+ - 🔥 November 18, 2023 - [Vocabulary - Environment](https://tanducmai.com/posts/glossaries/vocabulary/environment/)
+ - 💫 November 17, 2023 - [Vocabulary - Gender Equality](https://tanducmai.com/posts/glossaries/vocabulary/gender-equality/)
+ - 🚀 November 16, 2023 - [Vocabulary - Family](https://tanducmai.com/posts/glossaries/vocabulary/family/)
+ - 🌮 November 15, 2023 - [Vocabulary - Government](https://tanducmai.com/posts/glossaries/vocabulary/government/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
