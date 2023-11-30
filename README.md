@@ -42,7 +42,7 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 November 29, 2023 - [Python Dev Interview Questions](https://tanducmai.com/posts/blogs/python-dev-interview-questions/)
+ - 💯 November 25, 2023 - [Vocabulary - Travel and Tourism](https://tanducmai.com/posts/glossaries/vocabulary/travel-tourism/)
  - 🔥 November 24, 2023 - [Vocabulary - Urbanisation](https://tanducmai.com/posts/glossaries/vocabulary/urbanisation/)
  - 💫 November 23, 2023 - [Vocabulary - Education](https://tanducmai.com/posts/glossaries/vocabulary/education/)
  - 🚀 November 22, 2023 - [Vocabulary - Housing and Building](https://tanducmai.com/posts/glossaries/vocabulary/housing-building/)
