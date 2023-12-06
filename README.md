@@ -42,11 +42,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 November 25, 2023 - [Vocabulary - Travel and Tourism](https://tanducmai.com/posts/glossaries/vocabulary/travel-tourism/)
- - 🔥 November 24, 2023 - [Vocabulary - Urbanisation](https://tanducmai.com/posts/glossaries/vocabulary/urbanisation/)
- - 💫 November 23, 2023 - [Vocabulary - Education](https://tanducmai.com/posts/glossaries/vocabulary/education/)
- - 🚀 November 22, 2023 - [Vocabulary - Housing and Building](https://tanducmai.com/posts/glossaries/vocabulary/housing-building/)
- - 🌮 November 21, 2023 - [Vocabulary - Animals](https://tanducmai.com/posts/glossaries/vocabulary/animals/)<!-- BLOG-POST-LIST:END -->
+ - 💯 December 6, 2023 - [Reading - Fill in the Blanks - Priority](https://tanducmai.com/posts/glossaries/pte/rfib-priority/)
+ - 🔥 December 5, 2023 - [Vocabulary - Space Exploration](https://tanducmai.com/posts/glossaries/vocabulary/space-exploration/)
+ - 💫 December 4, 2023 - [Vocabulary - Leisure](https://tanducmai.com/posts/glossaries/vocabulary/leisure/)
+ - 🚀 December 3, 2023 - [Vocabulary - Language](https://tanducmai.com/posts/glossaries/vocabulary/language/)
+ - 🌮 December 2, 2023 - [Vocabulary - Society](https://tanducmai.com/posts/glossaries/vocabulary/society/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
