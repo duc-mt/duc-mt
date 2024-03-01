@@ -96,16 +96,13 @@ Sunday                   401 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-Bash                     16 mins             ███████████████████░░░░░░   76.35 % 
-Markdown                 4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-dcl                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +118,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/02/2024 00:51:44 UTC
+ Last Updated on 01/03/2024 00:58:10 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
