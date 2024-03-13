@@ -10,7 +10,7 @@
 - :telescope:: [My](https://tanducmai.com/) portfolio and continuous-learning blog.
 - :seedling:: I'm currently learning everything that is cybersecurity-related.
 - :earth_asia:: I regularly partake in open-source projects.
-- :speech_balloon:: `It is not complicated, it is just unfamiliar.`
+- :speech_balloon:: `I'm a fixer. I fixed it.`
 
 # :credit_card: Personal Card
 
