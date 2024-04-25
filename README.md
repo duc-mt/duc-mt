@@ -53,7 +53,7 @@ $ npx tanducmai
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
@@ -108,17 +108,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            ██████████████░░░░░░░░░░░   55.17 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Vim Script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   32 repos            ██████████████░░░░░░░░░░░   56.14 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Vim Script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
 
 
- Last Updated on 24/04/2024 00:54:57 UTC
+ Last Updated on 25/04/2024 01:09:08 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
