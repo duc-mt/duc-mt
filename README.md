@@ -108,17 +108,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            ███████████████░░░░░░░░░░   61.22 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Vim Script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   30 repos            ████████████████░░░░░░░░░   65.22 % 
+Vim Script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 29/05/2024 01:00:04 UTC
+ Last Updated on 30/05/2024 00:56:04 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
