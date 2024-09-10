@@ -51,6 +51,8 @@ $ npx tanducmai
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
@@ -58,8 +60,6 @@ $ npx tanducmai
 **🐱 My GitHub Data** 
 
 > 📦 244.8 kB Used in GitHub's Storage 
- > 
-> 🏆 112 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -116,7 +116,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 01:04:21 UTC
+ Last Updated on 10/09/2024 01:03:04 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
