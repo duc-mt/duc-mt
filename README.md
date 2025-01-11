@@ -51,6 +51,8 @@ $ npx tanducmai
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
@@ -94,13 +96,13 @@ Sunday                   392 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +118,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 01:08:05 UTC
+ Last Updated on 11/01/2025 01:06:47 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
