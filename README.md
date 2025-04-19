@@ -42,11 +42,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 January 14, 2024 - [IP Addressing Best Practices](https://tandukemai.com/posts/blogs/ip-addressing-best-practices/)
- - 🔥 December 5, 2023 - [Vocabulary - Space Exploration](https://tandukemai.com/posts/glossaries/vocabulary/space-exploration/)
- - 💫 December 4, 2023 - [Vocabulary - Leisure](https://tandukemai.com/posts/glossaries/vocabulary/leisure/)
- - 🚀 December 3, 2023 - [Vocabulary - Language](https://tandukemai.com/posts/glossaries/vocabulary/language/)
- - 🌮 December 2, 2023 - [Vocabulary - Society](https://tandukemai.com/posts/glossaries/vocabulary/society/)<!-- BLOG-POST-LIST:END -->
+ - 💯 June 20, 2024 - [PGP Encryption: A Guide to Cryptography and Key Management](https://tandukemai.com/posts/blogs/pgp-encryption/)
+ - 🔥 January 14, 2024 - [IP Addressing Best Practices](https://tandukemai.com/posts/blogs/ip-addressing-best-practices/)
+ - 💫 December 5, 2023 - [Vocabulary - Space Exploration](https://tandukemai.com/posts/glossaries/vocabulary/space-exploration/)
+ - 🚀 December 4, 2023 - [Vocabulary - Leisure](https://tandukemai.com/posts/glossaries/vocabulary/leisure/)
+ - 🌮 December 3, 2023 - [Vocabulary - Language](https://tandukemai.com/posts/glossaries/vocabulary/language/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
