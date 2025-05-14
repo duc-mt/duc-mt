@@ -96,13 +96,15 @@ Sunday                   394 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    31 mins             ██████████████████░░░░░░░   73.74 % 
+Bash                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +120,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2025 01:15:56 UTC
+ Last Updated on 14/05/2025 01:14:55 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
