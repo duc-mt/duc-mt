@@ -1,14 +1,14 @@
 <p align="center"><img src="assets/banner.png" /></p>
 
-[//]: ![](https://github.com/tanducmai/tanducmai/actions/workflows/waka-stats.yml/badge.svg)
-[//]: ![](https://github.com/tanducmai/tanducmai/actions/workflows/latest-blogs.yml/badge.svg)
-[//]: ![](https://github.com/tanducmai/tanducmai/actions/workflows/stackoverflow-activities.yml/badge.svg)
+[//]: ![](https://github.com/duke-mai/duke-mai/actions/workflows/waka-stats.yml/badge.svg)
+[//]: ![](https://github.com/duke-mai/duke-mai/actions/workflows/latest-blogs.yml/badge.svg)
+[//]: ![](https://github.com/duke-mai/duke-mai/actions/workflows/stackoverflow-activities.yml/badge.svg)
 
 # $ whoami
 
-- :mortar_board:: I'm a Networking and Cybersecurity student.
-- :telescope:: [My](https://tanducmai.com/) portfolio and continuous-learning blog.
-- :seedling:: I'm currently learning everything that is cybersecurity-related.
+- :mortar_board:: I'm a network engineer.
+- :telescope:: [My](https://tandukemai.com/) portfolio and continuous-learning blog.
+- :seedling:: I'm currently learning everything that is network-related.
 - :earth_asia:: I regularly partake in open-source projects.
 - :speech_balloon:: `I'm a fixer. I fixed it.`
 
@@ -22,14 +22,11 @@ $ npx tanducmai
 
 # :coffee: Get in Touch
 
-<a target="_blank" href="https://www.linkedin.com/in/tanducmai/">
+<a target="_blank" href="https://www.linkedin.com/in/duke-mai/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:henryfromvietnam@gmail.com">
+<a target="_blank" href="mailto:tan.duc.work@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a target="_blank" href="https://www.instagram.com/henry.maii/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://stackoverflow.com/users/16999206/tanducmai">
   <img alt="StackOverflow" src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" />
