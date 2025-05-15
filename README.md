@@ -39,11 +39,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 June 20, 2024 - [PGP Encryption: A Guide to Cryptography and Key Management](https://tandukemai.com/posts/blogs/pgp-encryption/)
- - 🔥 January 14, 2024 - [IP Addressing Best Practices](https://tandukemai.com/posts/blogs/ip-addressing-best-practices/)
- - 💫 December 5, 2023 - [Vocabulary - Space Exploration](https://tandukemai.com/posts/glossaries/vocabulary/space-exploration/)
- - 🚀 December 4, 2023 - [Vocabulary - Leisure](https://tandukemai.com/posts/glossaries/vocabulary/leisure/)
- - 🌮 December 3, 2023 - [Vocabulary - Language](https://tandukemai.com/posts/glossaries/vocabulary/language/)<!-- BLOG-POST-LIST:END -->
+ - 💯 December 31, 2024 - [The Hidden Costs of Legacy Systems](https://tandukemai.com/posts/blogs/hidden-costs-of-legacy-systems/)
+ - 🔥 November 11, 2024 - [Troubleshoot Common Network Issues](https://tandukemai.com/posts/blogs/troubleshoot-common-network-issues/)
+ - 💫 June 25, 2024 - [The Worst System Outages &amp; How They Were Fixed](https://tandukemai.com/posts/blogs/the-worst-system-outages/)
+ - 🚀 June 20, 2024 - [PGP Encryption: A Guide to Cryptography and Key Management](https://tandukemai.com/posts/blogs/pgp-encryption/)
+ - 🌮 June 15, 2024 - [A Cautionary Tale of Printer Sharing](https://tandukemai.com/posts/blogs/printer-sharing/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
