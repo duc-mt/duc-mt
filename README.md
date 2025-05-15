@@ -39,11 +39,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 December 31, 2024 - [The Hidden Costs of Legacy Systems](https://tandukemai.com/posts/blogs/hidden-costs-of-legacy-systems/)
- - 🔥 November 11, 2024 - [The Worst Network Troubleshooting Nightmares](https://tandukemai.com/posts/blogs/the-worst-network-troubleshooting-nightmares/)
- - 💫 June 25, 2024 - [The Worst System Outages &amp; How They Were Fixed](https://tandukemai.com/posts/blogs/the-worst-system-outages/)
- - 🚀 June 20, 2024 - [PGP Encryption: A Guide to Cryptography and Key Management](https://tandukemai.com/posts/blogs/pgp-encryption/)
- - 🌮 June 15, 2024 - [A Cautionary Tale of Printer Sharing](https://tandukemai.com/posts/blogs/printer-sharing/)<!-- BLOG-POST-LIST:END -->
+ - 💯 January 7, 2025 - [Advanced Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/advanced-network-automation-with-awx/)
+ - 🔥 January 6, 2025 - [Practical Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/practical-network-automation-with-ansible/)
+ - 💫 January 5, 2025 - [Streamlining NetDevOps Workflows with Ansible and AWX](https://tandukemai.com/posts/blogs/streamlining-netdevops-workflows-with-ansible-awx/)
+ - 🚀 December 31, 2024 - [The Hidden Costs of Legacy Systems](https://tandukemai.com/posts/blogs/hidden-costs-of-legacy-systems/)
+ - 🌮 November 11, 2024 - [The Worst Network Troubleshooting Nightmares](https://tandukemai.com/posts/blogs/the-worst-network-troubleshooting-nightmares/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
