@@ -39,11 +39,11 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 May 15, 2025 - [Advanced Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/advanced-network-automation-with-awx/)
- - 🔥 May 14, 2025 - [Practical Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/practical-network-automation-with-ansible/)
- - 💫 May 13, 2025 - [Streamlining NetDevOps Workflows with Ansible and AWX](https://tandukemai.com/posts/blogs/streamlining-netdevops-workflows-with-ansible-awx/)
- - 🚀 December 31, 2024 - [The Hidden Costs of Legacy Systems](https://tandukemai.com/posts/blogs/hidden-costs-of-legacy-systems/)
- - 🌮 November 11, 2024 - [The Worst Network Troubleshooting Nightmares](https://tandukemai.com/posts/blogs/the-worst-network-troubleshooting-nightmares/)<!-- BLOG-POST-LIST:END -->
+ - 💯 March 15, 2025 - [Advanced Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/advanced-network-automation-with-awx/)
+ - 🔥 March 14, 2025 - [Practical Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/practical-network-automation-with-ansible/)
+ - 💫 March 13, 2025 - [Streamlining NetDevOps Workflows with Ansible and AWX](https://tandukemai.com/posts/blogs/streamlining-netdevops-workflows-with-ansible-awx/)
+ - 🚀 November 11, 2024 - [The Worst Network Troubleshooting Nightmares](https://tandukemai.com/posts/blogs/the-worst-network-troubleshooting-nightmares/)
+ - 🌮 August 7, 2024 - [An Unhackable Approach to Password Management](https://tandukemai.com/posts/blogs/secure-password-management/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
