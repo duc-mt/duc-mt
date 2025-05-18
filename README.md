@@ -39,7 +39,7 @@ $ npx tanducmai
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 May 18, 2025 - [Python Revision](https://tandukemai.com/posts/python/python-revision/)
+ - 💯 May 18, 2025 - [Network Automation with Netmiko: A Practical Guide](https://tandukemai.com/posts/python/network-automation-with-netmiko/)
  - 🔥 March 15, 2025 - [Advanced Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/advanced-network-automation-with-awx/)
  - 💫 March 14, 2025 - [Practical Network Automation with Ansible and AWX](https://tandukemai.com/posts/blogs/practical-network-automation-with-ansible/)
  - 🚀 March 13, 2025 - [Streamlining NetDevOps Workflows with Ansible and AWX](https://tandukemai.com/posts/blogs/streamlining-netdevops-workflows-with-ansible-awx/)
