@@ -6,10 +6,10 @@
 
 # $ whoami
 
-- :mortar_board:: I'm a network engineer.
-- :telescope:: [My](https://tandukemai.com/) portfolio and continuous-learning blog.
+- :mortar_board:: Network Engineer | Open-Source Contributor.
+- :telescope:: Check out my [portfolio](https://tandukemai.com/).
 - :seedling:: I'm currently learning everything that is network-related.
-- :earth_asia:: I regularly partake in open-source projects.
+- :earth_asia:: I build and automate resilient networks, contribute to open-source, and share what I learn on my blog.
 - :speech_balloon:: `I'm a fixer. I fixed it.`
 
 # :credit_card: Personal Card
@@ -17,15 +17,15 @@
 Connect with me via the terminal by issuing the following `npx` command:
 
 ```bash
-$ npx tanducmai
+$ npx duc-mt
 ```
 
 # :coffee: Get in Touch
 
-<a target="_blank" href="https://www.linkedin.com/in/duke-mai/">
+<a target="_blank" href="https://www.linkedin.com/in/duc-mt">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:tan.duc.work@gmail.com">
+<a target="_blank" href="mailto:ducmai.network@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://stackoverflow.com/users/16999206/tanducmai">
@@ -34,7 +34,7 @@ $ npx tanducmai
 
 # :closed_lock_with_key: PGP Key Fingerprint
 
-`D2F1F3739A4E465E737C1F38F9E91488183ED044`
+`D2F1 F373 9A4E 465E 737C 1F38 F9E9 1488 183E D044`
 
 # :scroll: On My Blog
 
