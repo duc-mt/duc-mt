@@ -23,23 +23,23 @@ const questions = [
         message: "What do you want to do?",
         choices: [
             {
-                name: `Send me an ${chalk.green.bold("email")}?`,
+                name: `Send me an ${chalk.green.bold("💬 email")}?`,
                 value: () => {
-                    open("mailto:henryfromvietnam@gmail.com");
+                    open("mailto:ducmai.network@gmail.com");
                     console.log("\nDone, see you soon at inbox.");
                 }
             },
             {
-                name: `Download my ${chalk.magentaBright.bold("resume")}?`,
+                name: `Download my ${chalk.magentaBright.bold("🎓 resume")}?`,
                 value: () => {
                     // cliSpinners.dots;
                     const loader = ora({
                         text: ' Downloading Resume',
                         spinner: cliSpinners.material,
                     }).start();
-                    let pipe = request('https://tanducmai.com/resume/TanDucMai_Resume.pdf').pipe(fs.createWriteStream('./TanDucMai_Resume.pdf'));
+                    let pipe = request('https://tandukemai.com/resume/MaiTanDuc_Resume.docx').pipe(fs.createWriteStream('./MaiTanDuc_Resume.docx'));
                     pipe.on("finish", function () {
-                        let downloadPath = path.join(process.cwd(), 'TanDucMai_Resume.pdf')
+                        let downloadPath = path.join(process.cwd(), 'MaiTanDuc_Resume.docx')
                         console.log(`\nResume downloaded at ${downloadPath}`);
                         open(downloadPath)
                         loader.stop();
@@ -47,10 +47,16 @@ const questions = [
                 }
             },
             {
-                name: `Head to my ${chalk.redBright.bold("website")}?`,
+                name: `Head to my ${chalk.redBright.bold("💳 website")}?`,
                 value: () => {
-                    open('https://tanducmai.com/');
+                    open('https://tandukemai.com/');
                     console.log("\nDone, happy browsing!");
+                }
+            },
+            {
+                name: `Attain my ${chalk.hex("#FFD700").bold("🔑 PGP")} public key?`,
+                value: () => {
+                    console.log("D2F1 F373 9A4E 465E 737C 1F38 F9E9 1488 183E D044");
                 }
             },
             {
@@ -64,22 +70,22 @@ const questions = [
 ];
 
 const data = {
-    name: chalk.bold.green("             Tan Duc (Henry) Mai"),
-    handle: chalk.white("@tanducmai"),
-    work: `${chalk.white("Cyber Security Student at")} ${chalk
+    name: chalk.bold.green("             Duke Mai"),
+    handle: chalk.white("@duc-mt"),
+    work: `${chalk.white("Network Engineer at")} ${chalk
         .hex("#2b82b2")
-        .bold("University of South Australia")}`,
-    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("henrymai372"),
-    github: chalk.gray("https://github.com/") + chalk.green("tanducmai"),
-    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("tanducmai"),
-    web: chalk.cyan("https://tanducmai.com/"),
-    npx: chalk.red("npx") + " " + chalk.white("tanducmai"),
+        .bold("CMC Telecom")}`,
+    github: chalk.gray("https://github.com/") + chalk.green("duke-mai"),
+    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("duc-mt"),
+    web: chalk.cyan("https://tandukemai.com/"),
+    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("hacker0ten"),
+    npx: chalk.red("npx") + " " + chalk.white("duc-mt"),
 
     labelWork: chalk.white.bold("       Work:"),
-    labelTwitter: chalk.white.bold("    Twitter:"),
     labelGitHub: chalk.white.bold("     GitHub:"),
     labelLinkedIn: chalk.white.bold("   LinkedIn:"),
     labelWeb: chalk.white.bold("        Web:"),
+    labelTwitter: chalk.white.bold("    Twitter:"),
     labelCard: chalk.white.bold("       Card:")
 };
 
@@ -89,23 +95,18 @@ const me = boxen(
         ``,
         `${data.labelWork}  ${data.work}`,
         ``,
-        `${data.labelTwitter}  ${data.twitter}`,
         `${data.labelGitHub}  ${data.github}`,
         `${data.labelLinkedIn}  ${data.linkedin}`,
         `${data.labelWeb}  ${data.web}`,
+        `${data.labelTwitter}  ${data.twitter}`,
         ``,
         `${data.labelCard}  ${data.npx}`,
         ``,
-        `${chalk.italic(
-            "I am currently looking for opportunities,"
-        )}`,
-        `${chalk.italic("my inbox is always open. Whether you have a")}`,
-        `${chalk.italic(
-            "question or just want to say hi, I will try "
-        )}`,
-        `${chalk.italic(
-            "my best to get back to you!"
-        )}`
+        `${chalk.italic("Network Engineer with a focus on IP networking,")}`,
+        `${chalk.italic("  routing protocols, and telecom systems.")}`,
+        `${chalk.italic("Skilled in Cisco technologies, monitoring tools,")}`,
+        `${chalk.italic( "  and cross-functional collaboration.")}`,
+        `${chalk.italic("Always exploring new ways to \"network\".")}`
     ].join("\n"),
     {
         margin: 1,

@@ -1,14 +1,14 @@
 {
-  "name": "tanducmai",
+  "name": "duc-mt",
   "version": "1.0.3",
   "description": "<p align=\"center\"><img src=\"assets/banner.png\" /></p>",
   "main": "index.js",
   "bin": {
-    "tanducmai": "card.js"
+    "duc-mt": "card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanducmai/tanducmai.git"
+    "url": "git+https://github.com/duke-mai/duke-mai.git"
   },
   "scripts": {
     "test": "node card.js",
@@ -32,6 +32,6 @@
     "npx card",
     "business card"
   ],
-  "author": "Tan Duc Mai <henryfromvietnam@gmail.com> (https://tanducmai.com/)",
+  "author": "Duke Mai <ducmai.network@gmail.com> (https://tandukemai.com/)",
   "license": "ISC"
 }
