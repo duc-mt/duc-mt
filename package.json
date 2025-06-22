@@ -1,6 +1,6 @@
 {
   "name": "duc-mt",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "<p align=\"center\"><img src=\"assets/banner.png\" /></p>",
   "main": "index.js",
   "bin": {
