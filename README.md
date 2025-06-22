@@ -34,7 +34,7 @@ $ npx duc-mt
 
 # :closed_lock_with_key: PGP Key Fingerprint
 
-`D2F1 F373 9A4E 465E 737C 1F38 F9E9 1488 183E D044`
+`D2F1 F373 9A4E 465E 737C 1F38 F9E9 1488 183E D044` or `ducmai-network@gmail.com`
 
 # :scroll: On My Blog
 
