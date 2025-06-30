@@ -58,8 +58,6 @@ $ npx duc-mt
 
 > 📦 245.9 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -93,16 +91,13 @@ Sunday                   400 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               26 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
-Markdown                 23 mins             ████████░░░░░░░░░░░░░░░░░   33.54 % 
-JSON                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-AGS Script               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +113,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 01:26:17 UTC
+ Last Updated on 30/06/2025 01:22:41 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
