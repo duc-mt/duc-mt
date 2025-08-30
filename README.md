@@ -48,8 +48,6 @@ $ npx duc-mt
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2057%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
@@ -115,7 +113,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:12:21 UTC
+ Last Updated on 30/08/2025 01:08:27 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
