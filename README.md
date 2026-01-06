@@ -48,9 +48,11 @@ $ npx duc-mt
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,6 +66,42 @@ $ npx duc-mt
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1171 commits        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+🌆 Daytime                1128 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌃 Evening                1423 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
+🌙 Night                  213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   729 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Tuesday                  515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Thursday                 516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Sunday                   432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +115,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:29:58 UTC
+ Last Updated on 06/01/2026 01:22:15 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
