@@ -37,7 +37,7 @@ const questions = [
                         text: ' Downloading Resume',
                         spinner: cliSpinners.material,
                     }).start();
-                    let pipe = request('https://tandukemai.com/resume/MaiTanDuc_Resume.docx').pipe(fs.createWriteStream('./MaiTanDuc_Resume.docx'));
+                    let pipe = request('https://ducmt.netlify.app/resume/MaiTanDuc_Resume.docx').pipe(fs.createWriteStream('./MaiTanDuc_Resume.docx'));
                     pipe.on("finish", function () {
                         let downloadPath = path.join(process.cwd(), 'MaiTanDuc_Resume.docx')
                         console.log(`\nResume downloaded at ${downloadPath}`);
@@ -49,7 +49,7 @@ const questions = [
             {
                 name: `Head to my ${chalk.redBright.bold("💳 website")}?`,
                 value: () => {
-                    open('https://tandukemai.com/');
+                    open('https:/ducmt.netlify.app/');
                     console.log("\nDone, happy browsing!");
                 }
             },
@@ -75,9 +75,9 @@ const data = {
     work: `${chalk.white("Network Engineer at")} ${chalk
         .hex("#2b82b2")
         .bold("CMC Telecom")}`,
-    github: chalk.gray("https://github.com/") + chalk.green("duke-mai"),
+    github: chalk.gray("https://github.com/") + chalk.green("duc-mt"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("duc-mt"),
-    web: chalk.cyan("https://tandukemai.com/"),
+    web: chalk.cyan("https://ducmt.netlify.app/"),
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("hacker0ten"),
     npx: chalk.red("npx") + " " + chalk.white("duc-mt"),
 

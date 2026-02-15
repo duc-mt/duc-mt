@@ -15,10 +15,10 @@ jobs:
         with:
           fetch-depth: 0
         
-      - name: ⤵️ Pull in tanducmai.com Blogs
+      - name: ⤵️ Pull in ducmt.netlify.app Blogs
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://tandukemai.com/posts/index.xml"
+          feed_list: "https://ducmt.netlify.app/posts/index.xml"
           template: "$newline - $emojiKey(💯,🔥,💫,🚀,🌮) $date - [$title]($url)"
           date_format: "UTC:mmmm d, yyyy"
           commit_message: "docs(readme): update new blogs"

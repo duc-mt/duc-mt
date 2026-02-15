@@ -7,7 +7,7 @@
 # $ whoami
 
 - :mortar_board:: Network Engineer | Open-Source Contributor.
-- :telescope:: Check out my [portfolio](https://tandukemai.com/).
+- :telescope:: Check out my [portfolio](https://ducmt.netlify.app/).
 - :seedling:: I'm currently learning everything that is network-related.
 - :earth_asia:: I build and automate resilient networks, contribute to open-source, and share what I learn on my blog.
 - :speech_balloon:: `I'm a fixer. I fixed it.`
