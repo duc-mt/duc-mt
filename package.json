@@ -1,7 +1,8 @@
 {
   "name": "duc-mt",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "<p align=\"center\"><img src=\"assets/banner.png\" /></p>",
+  "type": "module",
   "main": "index.js",
   "bin": {
     "duc-mt": "card.js"
