@@ -17,8 +17,10 @@
 Connect with me via the terminal by issuing the following `npx` command:
 
 ```bash
-$ npx duc-mt
+npx duc-mt
 ```
+
+<p align="center"><img src="assets/npx duc-mt.png" /></p>
 
 # :coffee: Get in Touch
 
