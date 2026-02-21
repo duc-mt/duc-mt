@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duke-mai/duke-mai.git"
+    "url": "git+https://github.com/duc-mt/duc-mt.git"
   },
   "scripts": {
     "test": "node card.js",
