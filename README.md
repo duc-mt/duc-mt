@@ -41,11 +41,11 @@ npx duc-mt
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 February 10, 2026 - [Stateful Switchover - SSO](https://ducmt.netlify.app/posts/ccnp-enterprise-core/stateful-switchover-sso/)
- - 🔥 September 19, 2025 - [Analysis of Optus 2025 Outage](https://ducmt.netlify.app/posts/blogs/analysis-of-optus-2025-outage/)
- - 💫 June 13, 2025 - [Meta Unmasked: The June 2025 Android Tracking Phenomenon](https://ducmt.netlify.app/posts/blogs/meta-unmasked-june-2025/)
- - 🚀 May 18, 2025 - [Network Automation with Netmiko: A Practical Guide](https://ducmt.netlify.app/posts/python/network-automation-with-netmiko/)
- - 🌮 March 15, 2025 - [Advanced Network Automation with Ansible and AWX](https://ducmt.netlify.app/posts/blogs/advanced-network-automation-with-awx/)<!-- BLOG-POST-LIST:END -->
+ - 💯 February 14, 2026 - [Software-Defined Access &lpar;SD-Access&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sd-access/)
+ - 🔥 February 10, 2026 - [Stateful Switchover - SSO](https://ducmt.netlify.app/posts/ccnp-enterprise-core/stateful-switchover-sso/)
+ - 💫 September 19, 2025 - [Analysis of Optus 2025 Outage](https://ducmt.netlify.app/posts/blogs/analysis-of-optus-2025-outage/)
+ - 🚀 June 13, 2025 - [Meta Unmasked: The June 2025 Android Tracking Phenomenon](https://ducmt.netlify.app/posts/blogs/meta-unmasked-june-2025/)
+ - 🌮 May 18, 2025 - [Network Automation with Netmiko: A Practical Guide](https://ducmt.netlify.app/posts/python/network-automation-with-netmiko/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
