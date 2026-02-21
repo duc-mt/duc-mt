@@ -39,87 +39,87 @@ $ npx duc-mt
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 February 10, 2026 - [Stateful Switchover - SSO](https://ducmt.netlify.app/posts/ccnp-enterprise-core/stateful-switchover-sso/)
- - 🔥 September 19, 2025 - [Analysis of Optus 2025 Outage](https://ducmt.netlify.app/posts/blogs/analysis-of-optus-2025-outage/)
- - 💫 June 13, 2025 - [Meta Unmasked: The June 2025 Android Tracking Phenomenon](https://ducmt.netlify.app/posts/blogs/meta-unmasked-june-2025/)
- - 🚀 May 18, 2025 - [Network Automation with Netmiko: A Practical Guide](https://ducmt.netlify.app/posts/python/network-automation-with-netmiko/)
- - 🌮 March 15, 2025 - [Advanced Network Automation with Ansible and AWX](https://ducmt.netlify.app/posts/blogs/advanced-network-automation-with-awx/)<!-- BLOG-POST-LIST:END -->
+
+- 💯 February 10, 2026 - [Stateful Switchover - SSO](https://ducmt.netlify.app/posts/ccnp-enterprise-core/stateful-switchover-sso/)
+- 🔥 September 19, 2025 - [Analysis of Optus 2025 Outage](https://ducmt.netlify.app/posts/blogs/analysis-of-optus-2025-outage/)
+- 💫 June 13, 2025 - [Meta Unmasked: The June 2025 Android Tracking Phenomenon](https://ducmt.netlify.app/posts/blogs/meta-unmasked-june-2025/)
+- 🚀 May 18, 2025 - [Network Automation with Netmiko: A Practical Guide](https://ducmt.netlify.app/posts/python/network-automation-with-netmiko/)
+- 🌮 March 15, 2025 - [Advanced Network Automation with Ansible and AWX](https://ducmt.netlify.app/posts/blogs/advanced-network-automation-with-awx/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 252.1 kB Used in GitHub's Storage 
- > 
+> 📦 252.1 kB Used in GitHub's Storage
+>
 > 🏆 21 Contributions in the Year 2026
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 32 Public Repositories
+>
+> 🔑 6 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                1172 commits        ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌆 Daytime                1152 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-🌃 Evening                1424 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌙 Night                  214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌞 Morning                1172 commits        ███████░░░░░░░░░░░░░░░░░░   29.58 %
+🌆 Daytime                1152 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 %
+🌃 Evening                1424 commits        █████████░░░░░░░░░░░░░░░░   35.94 %
+🌙 Night                  214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   732 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Tuesday                  517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Monday                   732 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 %
+Tuesday                  517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Wednesday                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Thursday                 516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Friday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Saturday                 584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-Markdown                 4 hrs 3 mins        ██████████████████░░░░░░░   70.52 % 
-Text                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-gitconfig                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+💬 Programming Languages:
+Markdown                 4 hrs 3 mins        ██████████████████░░░░░░░   70.52 %
+Text                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+gitconfig                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 
-🔥 Editors: 
-Vim                      5 hrs 45 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+Vim                      5 hrs 45 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-WSL                      5 hrs 45 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+WSL                      5 hrs 45 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   19 repos            ███████████████████░░░░░░   76.00 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   19 repos            ███████████████████░░░░░░   76.00 %
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
+Last Updated on 21/02/2026 01:44:08 UTC
 
-
-
- Last Updated on 21/02/2026 01:44:08 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
