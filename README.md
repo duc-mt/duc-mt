@@ -41,11 +41,11 @@ npx duc-mt
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 February 22, 2026 - [Quality of Service &lpar;QoS&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/qos/)
- - 🔥 February 19, 2026 - [Software-Defined WAN &lpar;SD-WAN&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sd-wan/)
- - 💫 February 14, 2026 - [Software-Defined Access &lpar;SD-Access&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sd-access/)
- - 🚀 February 10, 2026 - [Stateful Switchover - SSO](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sso/)
- - 🌮 September 19, 2025 - [Analysis of Optus 2025 Outage](https://ducmt.netlify.app/posts/blogs/analysis-of-optus-2025-outage/)<!-- BLOG-POST-LIST:END -->
+ - 💯 February 25, 2026 - [TrustSec and MACsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/trustsec-vs-macsec/)
+ - 🔥 February 22, 2026 - [Quality of Service &lpar;QoS&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/qos/)
+ - 💫 February 19, 2026 - [GRE over IPsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/gre-over-ipsec/)
+ - 🚀 February 19, 2026 - [Software-Defined WAN &lpar;SD-WAN&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sd-wan/)
+ - 🌮 February 14, 2026 - [Software-Defined Access &lpar;SD-Access&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sd-access/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
