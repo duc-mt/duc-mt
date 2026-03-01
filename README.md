@@ -41,11 +41,11 @@ npx duc-mt
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 February 27, 2026 - [Authentication, Authorisation, and Accounting &lpar;AAA&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/aaa/)
- - 🔥 February 25, 2026 - [TrustSec and MACsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/trustsec-vs-macsec/)
- - 💫 February 22, 2026 - [Quality of Service &lpar;QoS&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/qos/)
- - 🚀 February 19, 2026 - [GRE over IPsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/gre-over-ipsec/)
- - 🌮 February 19, 2026 - [Software-Defined WAN &lpar;SD-WAN&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/sd-wan/)<!-- BLOG-POST-LIST:END -->
+ - 💯 March 1, 2026 - [Control Plane Policing &lpar;CoPP&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/copp/)
+ - 🔥 February 27, 2026 - [Authentication, Authorisation, and Accounting &lpar;AAA&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/aaa/)
+ - 💫 February 25, 2026 - [TrustSec and MACsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/trustsec-vs-macsec/)
+ - 🚀 February 22, 2026 - [Quality of Service &lpar;QoS&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/qos/)
+ - 🌮 February 19, 2026 - [GRE over IPsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/gre-over-ipsec/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
