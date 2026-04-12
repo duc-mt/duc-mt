@@ -15,7 +15,7 @@ clear();
 
 // Profile data
 const data = {
-  name: chalk.bold.green("             Duke Mike"),
+  name: chalk.bold.green("             Duc Mai"),
   handle: chalk.white("@duc-mt"),
   work: `${chalk.white("Network Engineer at")} ${chalk.hex("#2b82b2").bold("CMC Telecom")}`,
   github: chalk.gray("https://github.com/") + chalk.green("duc-mt"),
