@@ -50,8 +50,6 @@ npx duc-mt
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%206%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue?style=flat)
@@ -68,42 +66,6 @@ npx duc-mt
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1190 commits        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-🌆 Daytime                1184 commits        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌃 Evening                1434 commits        █████████░░░░░░░░░░░░░░░░   35.64 % 
-🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   734 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Tuesday                  519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Wednesday                653 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Thursday                 517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Friday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 605 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 02:45:30 UTC
+ Last Updated on 15/05/2026 02:46:15 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
