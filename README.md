@@ -50,7 +50,9 @@ npx duc-mt
 # :1234: Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2015%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,6 +68,42 @@ npx duc-mt
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1190 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌆 Daytime                1184 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌃 Evening                1437 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
+🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   734 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                653 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Thursday                 517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Friday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Saturday                 605 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Sunday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TOML                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Vim                      0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +117,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 02:49:55 UTC
+ Last Updated on 30/05/2026 02:43:25 UTC
 <!--END_SECTION:waka-->
 
 # :computer: StackOverflow Activities
