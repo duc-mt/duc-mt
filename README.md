@@ -41,11 +41,11 @@ npx duc-mt
 # :scroll: On My Blog
 
 <!-- BLOG-POST-LIST:START -->
- - 💯 March 1, 2026 - [Control Plane Policing &lpar;CoPP&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/copp/)
- - 🔥 February 27, 2026 - [Authentication, Authorisation, and Accounting &lpar;AAA&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/aaa/)
- - 💫 February 25, 2026 - [TrustSec and MACsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/trustsec-vs-macsec/)
- - 🚀 February 22, 2026 - [Quality of Service &lpar;QoS&rpar;](https://ducmt.netlify.app/posts/ccnp-enterprise-core/qos/)
- - 🌮 February 19, 2026 - [GRE over IPsec](https://ducmt.netlify.app/posts/ccnp-enterprise-core/gre-over-ipsec/)<!-- BLOG-POST-LIST:END -->
+ - 💯 March 4, 2026 - [SPAN, RSPAN, and ERSPAN: Traffic Mirroring for Network Analysis](https://ducmt.netlify.app/posts/ccnp/span-rspan-erspan/)
+ - 🔥 March 2, 2026 - [NetFlow and Flexible NetFlow: Traffic Visibility and Flow Analysis](https://ducmt.netlify.app/posts/ccnp/netflow-flexible-netflow/)
+ - 💫 March 1, 2026 - [Control Plane Policing &lpar;CoPP&rpar;: Protecting the Route Processor](https://ducmt.netlify.app/posts/ccnp/control-plane-policing-copp/)
+ - 🚀 February 27, 2026 - [AAA on Cisco IOS: RADIUS, TACACS+, and Enterprise Configuration](https://ducmt.netlify.app/posts/ccnp/cisco-ios-aaa-configuration/)
+ - 🌮 February 25, 2026 - [TrustSec and MACsec: Identity-Based Access Control and Layer 2 Encryption](https://ducmt.netlify.app/posts/ccnp/trustsec-and-macsec/)<!-- BLOG-POST-LIST:END -->
 
 # :1234: Statistics
 
