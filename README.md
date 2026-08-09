@@ -76,19 +76,20 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duc-mt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&PAT_1=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc-mt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=duc-mt&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ### 🌿 Contribution Graph
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duc-mt&theme=tokyo_night" alt="Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duc-mt&theme=github_dark"
+       alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duc-mt&theme=tokyo-night&hide_border=true&area=false&point=bf91f3&line=bf91f3&radius=6"
+       alt="Contribution Graph" width="100%" />
 </p>
 
 ---
