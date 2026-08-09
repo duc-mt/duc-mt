@@ -26,10 +26,8 @@
 I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates resilient networks, writes about what I learn, and contributes to open-source along the way.
 
 - 🎓 Network Engineer | Open-Source Contributor | Technical Blogger
-- 🔭 Currently working toward **CCNP Enterprise** and building the [**CMC NMS Tool**](https://github.com/duc-mt) — a Python/PySide6 desktop app for SNMP monitoring, device configuration, and network inventory management
-- 🌱 Deep-diving into enterprise network security: **TrustSec**, **MACsec**, **CoPP**, and flow-based telemetry
+- 🔭 Currently working toward **CCIE EI** and **CEH**.
 - ✍️ I write detailed technical posts on my [blog](https://ducmt.netlify.app/) — no fluff, just the real config and the real reasoning behind it
-- 💬 Ask me about Cisco IOS, Python network automation, or anything SNMP
 
 ---
 
