@@ -81,7 +81,6 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 ### 🌿 Contribution Graph
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duc-mt&theme=github_dark"
        alt="Contribution Graph" width="100%" />
@@ -90,6 +89,11 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duc-mt&theme=tokyo-night&hide_border=true&area=false&point=bf91f3&line=bf91f3&radius=6"
        alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duc-mt/duc-mt/output/github-contribution-grid-snake-dark.svg"
+       alt="contribution snake" />
 </p>
 
 ---
