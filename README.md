@@ -26,7 +26,7 @@
 I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates resilient networks, writes about what I learn, and contributes to open-source along the way.
 
 - 🎓 Network Engineer | Open-Source Contributor | Technical Blogger
-- 🔭 Currently working toward **CCNP Enterprise** and building the [**CMC NMS Tool**](https://github.com/duke-mai) — a Python/PySide6 desktop app for SNMP monitoring, device configuration, and network inventory management
+- 🔭 Currently working toward **CCNP Enterprise** and building the [**CMC NMS Tool**](https://github.com/duc-mt) — a Python/PySide6 desktop app for SNMP monitoring, device configuration, and network inventory management
 - 🌱 Deep-diving into enterprise network security: **TrustSec**, **MACsec**, **CoPP**, and flow-based telemetry
 - ✍️ I write detailed technical posts on my [blog](https://ducmt.netlify.app/) — no fluff, just the real config and the real reasoning behind it
 - 💬 Ask me about Cisco IOS, Python network automation, or anything SNMP
@@ -59,18 +59,6 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 ---
 
-## 🚀 Featured Project
-
-### [CMC NMS Tool](https://github.com/duke-mai)
-> A Python/PySide6 desktop Network Management System built for real-world operations
-
-- 📡 **SNMP monitoring** — polls devices, tracks metrics, surfaces alerts in a native desktop UI
-- 🗃️ **Inventory management** — keeps device records, interface states, and config history in sync
-- ⚙️ **Device configuration** — push changes directly from the tool without touching the CLI manually
-- 🔁 **Automation-first** — designed to eliminate repetitive, error-prone manual workflows
-
----
-
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -88,8 +76,19 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=duke-mai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duke-mai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duc-mt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc-mt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=duc-mt&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
+
+### 🌿 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duc-mt&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=c9d1d9&line=70a5fd&point=bf91f3&radius=6" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
