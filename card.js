@@ -3,119 +3,135 @@
 import boxen from "boxen";
 import chalk from "chalk";
 import inquirer from "inquirer";
-import clear from "clear";
 import open from "open";
 import fs from "fs";
-import request from "request";
+import https from "https";
 import path from "path";
 import ora from "ora";
 import cliSpinners from "cli-spinners";
 
-clear();
+console.clear();
 
-// Profile data
-const data = {
-  name: chalk.bold.green("             Duc Mai"),
-  handle: chalk.white("@duc-mt"),
-  work: `${chalk.white("Network Engineer at")} ${chalk.hex("#2b82b2").bold("CMC Telecom")}`,
-  github: chalk.gray("https://github.com/") + chalk.green("duc-mt"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("duc-mt"),
-  web: chalk.gray("https://") + chalk.cyan("ducmt") + chalk.gray(".netlify.app/"),
-  npx: chalk.white("npx") + " " + chalk.red("duc-mt"),
+// ─── Profile data ────────────────────────────────────────────────
+const dim  = chalk.dim;
+const bold = chalk.bold;
 
-  labelWork: chalk.white.bold("       Work:"),
-  labelGitHub: chalk.white.bold("     GitHub:"),
-  labelLinkedIn: chalk.white.bold("   LinkedIn:"),
-  labelWeb: chalk.white.bold("        Web:"),
-  labelCard: chalk.white.bold("       Card:"),
-};
+const row = (label, value) =>
+  `  ${dim(label.padEnd(10))}${value}`;
 
-// Business card box
-const me = boxen(
+const card = boxen(
   [
-    `${data.name}`,
-    ``,
-    `${data.labelWork}  ${data.work}`,
-    ``,
-    `${data.labelGitHub}  ${data.github}`,
-    `${data.labelLinkedIn}  ${data.linkedin}`,
-    `${data.labelWeb}  ${data.web}`,
-    ``,
-    `${data.labelCard}  ${data.npx}`,
-    ``,
-    chalk.italic(`Network Engineer specialising in ${chalk.green("IP networking")},`),
-    chalk.italic(`  ${chalk.cyan("advanced routing protocols")} and ${chalk.cyan("telecom systems")}.`),
-    chalk.italic(`Experienced with ${chalk.yellow("multi‑vendor technologies")},`),
-    chalk.italic(`  ${chalk.blue("Wi‑Fi infra")}, and ${chalk.magenta("cross‑functional collaboration")}.`),
+    row("Work",     bold.hex("#2b82b2")("CMC Telecom")),
+    row("GitHub",   dim("github.com/")    + chalk.green("duc-mt")),
+    row("LinkedIn", dim("linkedin.com/in/") + chalk.blue("duc-mt")),
+    row("Blog",     dim("ducmt") + chalk.cyan(".netlify.app")),
+    row("Card",     chalk.white("npx ") + chalk.red("duc-mt")),
+    "",
+    dim("  " + "─".repeat(38)),
+    "",
+    "  " + chalk.italic(
+      `Network Engineer · CCNP track\n` +
+      `  Python · SNMP · Cisco IOS · Open-source`
+    ),
   ].join("\n"),
   {
-    margin: 1,
-    float: "center",
-    padding: 1,
-    borderStyle: "single",
-    borderColor: "green",
+    title:          chalk.green.bold(" Duc Mai "),
+    titleAlignment: "center",
+    margin:         1,
+    float:          "center",
+    padding:        1,
+    borderStyle:    "round",
+    borderColor:    "green",
   }
 );
 
-console.log(me);
+console.log(card);
 
-// Menu choices
-const questions = [
+// ─── Menu ─────────────────────────────────────────────────────────
+const { action } = await inquirer.prompt([
   {
-    type: "rawlist",
-    name: "action",
-    message: "What do you want to do?",
+    type:    "rawlist",
+    name:    "action",
+    message: "What would you like to do?",
     choices: [
-      { name: `Send me an ${chalk.green.bold("💬 email")}?`, value: "email" },
-      { name: `Head to my ${chalk.redBright.bold("💳 website")}?`, value: "website" },
-      { name: `View my ${chalk.magentaBright.bold("🎓 resume")}?`, value: "resume" },
-      { name: `Attain my ${chalk.hex("#FFD700").bold("🔑 PGP")} public key?`, value: "pgp" },
-      { name: "Just quit.", value: "quit" },
+      { name: `${chalk.green("✉")}  Send me an email`,       value: "email"    },
+      { name: `${chalk.cyan("🌐")}  Visit my blog`,           value: "blog"     },
+      { name: `${chalk.white("🐙")}  Open GitHub profile`,    value: "github"   },
+      { name: `${chalk.blue("💼")}  Connect on LinkedIn`,     value: "linkedin" },
+      { name: `${chalk.yellow("📄")}  Download resume`,        value: "resume"   },
+      { name: `${chalk.hex("#FFD700")("🔑")}  Get PGP public key`, value: "pgp"  },
+      { name: dim("   Quit"),                                  value: "quit"     },
     ],
   },
-];
+]);
 
-// Action handler
-const handleAction = async (choice) => {
-  switch (choice) {
-    case "email":
-      await open("mailto:ducmai.network@gmail.com");
-      console.log("\nDone, see you soon at inbox.");
-      break;
+// ─── Actions ──────────────────────────────────────────────────────
+switch (action) {
+  case "email":
+    await open("mailto:ducmai.network@gmail.com");
+    console.log(chalk.green("\n✓") + " Opening your mail client…\n");
+    break;
 
-    case "website":
-      await open("https://ducmt.netlify.app/");
-      console.log("\nDone, happy browsing!");
-      break;
+  case "blog":
+    await open("https://ducmt.netlify.app/");
+    console.log(chalk.green("\n✓") + " Opening blog…\n");
+    break;
 
-    case "resume":
-      const loader = ora({ text: " Downloading Resume", spinner: cliSpinners.material }).start();
-      const resumeUrl = "https://ducmt.netlify.app/resume/MaiTanDuc_Resume.pdf";
-      const outputFile = "./MaiTanDuc_Resume.pdf";
+  case "github":
+    await open("https://github.com/duc-mt");
+    console.log(chalk.green("\n✓") + " Opening GitHub profile…\n");
+    break;
 
-      try {
-        const pipe = request(resumeUrl).pipe(fs.createWriteStream(outputFile));
-        pipe.on("finish", () => {
-          const downloadPath = path.join(process.cwd(), "MaiTanDuc_Resume.pdf");
-          console.log(`\nResume downloaded at ${downloadPath}`);
-          open(downloadPath);
-          loader.stop();
-        });
-      } catch (err) {
-        loader.fail("Failed to download resume.");
-        console.error(err);
-      }
-      break;
+  case "linkedin":
+    await open("https://linkedin.com/in/duc-mt");
+    console.log(chalk.green("\n✓") + " Opening LinkedIn…\n");
+    break;
 
-    case "pgp":
-      console.log("D2F1 F373 9A4E 465E 737C 1F38 F9E9 1488 183E D044");
-      break;
+  case "resume": {
+    const outFile = path.join(process.cwd(), "MaiTanDuc_Resume.pdf");
+    const loader  = ora({
+      text:    " Downloading resume…",
+      spinner: cliSpinners.dots,
+    }).start();
 
-    case "quit":
-      console.log("Cheers!");
-      break;
+    const download = (url) =>
+      new Promise((resolve, reject) => {
+        const file = fs.createWriteStream(outFile);
+        https.get(url, (res) => {
+          // Follow one redirect (HTTP → HTTPS or CDN hop)
+          if (res.statusCode === 301 || res.statusCode === 302) {
+            return download(res.headers.location).then(resolve).catch(reject);
+          }
+          res.pipe(file);
+          file.on("finish", resolve);
+          file.on("error", reject);
+        }).on("error", reject);
+      });
+
+    try {
+      await download("https://ducmt.netlify.app/resume/MaiTanDuc_Resume.pdf");
+      loader.succeed(chalk.green(" Resume saved → ") + chalk.cyan(outFile));
+      await open(outFile);
+    } catch (err) {
+      loader.fail(" Download failed.");
+      console.error(chalk.red(err.message));
+    }
+    break;
   }
-};
 
-// Run prompt
-inquirer.prompt(questions).then((answers) => handleAction(answers.action));
+  case "pgp":
+    console.log(
+      `\n  ${dim("Fingerprint")}  ` +
+      chalk.yellow("D2F1 F373 9A4E 465E 737C 1F38 F9E9 1488 183E D044")
+    );
+    console.log(
+      `  ${dim("Lookup")}       ` +
+      chalk.cyan("https://keys.openpgp.org") +
+      dim(" → search ducmai-network@gmail.com\n")
+    );
+    break;
+
+  case "quit":
+    console.log(dim("\nCheers.\n"));
+    break;
+}

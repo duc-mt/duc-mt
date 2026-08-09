@@ -1,9 +1,9 @@
 {
   "name": "duc-mt",
-  "version": "1.0.4",
-  "description": "<p align=\"center\"><img src=\"assets/banner.png\" /></p>",
+  "version": "1.0.5",
+  "description": "Terminal business card for Duc Mai — Network Engineer",
   "type": "module",
-  "main": "index.js",
+  "main": "card.js",
   "bin": {
     "duc-mt": "card.js"
   },
@@ -13,27 +13,24 @@
   },
   "scripts": {
     "test": "node card.js",
-    "pub": "npm version major & npm publish"
+    "pub": "npm version patch && npm publish"
   },
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.6.2",
-    "clear": "^0.1.0",
     "cli-spinners": "^3.4.0",
-    "duc-mt": "^1.0.3",
     "inquirer": "^13.2.5",
     "open": "^11.0.0",
-    "ora": "^9.3.0",
-    "request": "^2.88.2"
+    "ora": "^9.3.0"
   },
   "keywords": [
     "card",
-    "npm",
-    "npm card",
     "npx",
-    "npx card",
-    "business card"
+    "npx-card",
+    "business-card",
+    "network-engineer",
+    "duc-mt"
   ],
-  "author": "Duke Mike <ducmai.network@gmail.com> (https://ducmt.netlify.app/)",
+  "author": "Duc Mai <ducmai.network@gmail.com> (https://ducmt.netlify.app/)",
   "license": "ISC"
 }
