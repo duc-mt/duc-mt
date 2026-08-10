@@ -1,6 +1,6 @@
 {
   "name": "duc-mt",
-  "version": "1.0.8",
+  "version": "1.0.6",
   "description": "Terminal business card for Duc Mai — Network Engineer",
   "type": "module",
   "main": "card.js",
@@ -19,6 +19,8 @@
     "boxen": "^8.0.1",
     "chalk": "^5.6.2",
     "cli-spinners": "^3.4.0",
+    "figlet": "^1.9.3",
+    "gradient-string": "^3.0.0",
     "inquirer": "^13.2.5",
     "open": "^11.0.0",
     "ora": "^9.3.0"
