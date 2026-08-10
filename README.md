@@ -100,50 +100,79 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2014%20mins-blue?style=flat)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.54%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-> 📦 250.2 kB Used in GitHub Storage
->
-> 🏆 110 Contributions in 2026
->
-> 💼 Open to Work
->
-> 📜 33 Public Repositories | 🔑 6 Private Repositories
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.66%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤**
+**🐱 My GitHub Data** 
 
-```text
-🌞 Morning    1191 commits   ███████░░░░░░░░░░░░░░░░░░   29.58 %
-🌆 Daytime    1194 commits   ███████░░░░░░░░░░░░░░░░░░   29.65 %
-🌃 Evening    1426 commits   █████████░░░░░░░░░░░░░░░░   35.41 %
-🌙 Night       216 commits   █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-```
-
-📅 **Most Productive on Monday**
+> 📦 252.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Monday       735 commits    █████░░░░░░░░░░░░░░░░░░░░   18.25 %
-Tuesday      522 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Wednesday    654 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Thursday     518 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Friday       516 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Saturday     607 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Sunday       475 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+🌞 Morning                1198 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌆 Daytime                1194 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌃 Evening                1440 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
+🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
-
-**I Mostly Code in Python**
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Python        19 repos    ██████████████████░░░░░░░   73.08 %
-HTML           3 repos    ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-PowerShell     1 repo     █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Vim Script     1 repo     █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Shell          1 repo     █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Monday                   742 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Tuesday                  522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Wednesday                654 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Saturday                 607 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 
-*Last Updated: 09/08/2026 UTC*
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   19 repos            ██████████████████░░░░░░░   73.08 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+
+ Last Updated on 10/08/2026 01:21:39 UTC
 <!--END_SECTION:waka-->
 
 ---
