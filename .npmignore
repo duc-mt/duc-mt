@@ -1,0 +1,4 @@
+assets/
+.github/
+*.md
+!README.md
