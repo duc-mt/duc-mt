@@ -109,7 +109,7 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 > 📦 252.3 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -120,9 +120,9 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1202 commits        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-🌆 Daytime                1194 commits        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-🌃 Evening                1442 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
+🌞 Morning                1202 commits        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+🌆 Daytime                1195 commits        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌃 Evening                1442 commits        █████████░░░░░░░░░░░░░░░░   35.56 % 
 🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -130,10 +130,10 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ```text
 Monday                   742 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 Tuesday                  525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Wednesday                657 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Thursday                 518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                657 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Thursday                 518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Friday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Saturday                 607 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 Sunday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 ```
 
@@ -144,17 +144,19 @@ Sunday                   489 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        █████████████████████░░░░   83.37 % 
-Vim Script               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    3 hrs 15 mins       ███████████████████████░░   92.63 % 
+Vim Script               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Claude Code              1 hr 2 mins         █████████████████░░░░░░░░   68.44 % 
-Vim                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Termius                  13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Claude Code              1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
+UTM                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Termius                  40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Terminal                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Vim                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -176,7 +178,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 00:59:04 UTC
+ Last Updated on 16/08/2026 01:02:11 UTC
 <!--END_SECTION:waka-->
 
 ---
