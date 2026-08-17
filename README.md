@@ -144,19 +144,20 @@ Sunday                   489 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       ███████████████████████░░   92.63 % 
-Vim Script               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    5 hrs 24 mins       ████████████████████████░   95.26 % 
+Vim Script               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
-UTM                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Termius                  40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Terminal                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Vim                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Termius                  2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
+Claude Code              1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+UTM                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Terminal                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Vim                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -178,7 +179,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:02:11 UTC
+ Last Updated on 17/08/2026 00:59:50 UTC
 <!--END_SECTION:waka-->
 
 ---
