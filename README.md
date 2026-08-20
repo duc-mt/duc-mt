@@ -109,7 +109,7 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 > 📦 252.4 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,15 +122,15 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ```text
 🌞 Morning                1589 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
 🌆 Daytime                1695 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                1846 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌙 Night                  276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+🌃 Evening                1847 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌙 Night                  276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   997 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
 Tuesday                  780 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Wednesday                843 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Wednesday                844 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 Thursday                 643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 Friday                   706 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 Saturday                 798 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
@@ -144,18 +144,19 @@ Sunday                   639 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    6 hrs 31 mins       █████████████████████████   99.80 % 
-Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    5 hrs 52 mins       █████████████████████████   99.75 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Termius                  2 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.21 % 
-Claude Code              2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
-UTM                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Terminal                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Termius                  3 hrs 6 mins        █████████████░░░░░░░░░░░░   52.82 % 
+Claude Code              1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+UTM                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Terminal                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -177,7 +178,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:59:21 UTC
+ Last Updated on 20/08/2026 00:59:01 UTC
 <!--END_SECTION:waka-->
 
 ---
