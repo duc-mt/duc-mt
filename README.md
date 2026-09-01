@@ -99,7 +99,7 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -144,20 +144,20 @@ Sunday                   1931 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    6 hrs 51 mins       ████████████████████████░   97.39 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Other                    7 hrs 15 mins       ████████████████████████░   97.52 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 7 mins        ███████████████░░░░░░░░░░   58.51 % 
-Termius                  1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Terminal                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Vim                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Claude Code              3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+Terminal                 2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Termius                  1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Vim                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,7 +179,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 03:14:54 UTC
+ Last Updated on 01/09/2026 03:18:35 UTC
 <!--END_SECTION:waka-->
 
 ---
