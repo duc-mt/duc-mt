@@ -107,7 +107,7 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 **🐱 My GitHub Data** 
 
-> 📦 252.2 kB Used in GitHub's Storage 
+> 📦 252.1 kB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2026
  > 
@@ -144,20 +144,20 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    6 hrs 25 mins       █████████████████████████   98.16 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    10 hrs 31 mins      ████████████████████████░   96.84 % 
+conf                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-Terminal                 2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
-Termius                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Claude Code              5 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.28 % 
+Terminal                 2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Termius                  2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Vim                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,7 +179,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 02:40:57 UTC
+ Last Updated on 05/09/2026 02:43:05 UTC
 <!--END_SECTION:waka-->
 
 ---
