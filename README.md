@@ -99,7 +99,7 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -144,20 +144,20 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    10 hrs 31 mins      ████████████████████████░   96.84 % 
-conf                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    12 hrs 54 mins      ████████████████████████░   97.91 % 
+conf                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.28 % 
-Terminal                 2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Termius                  2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Vim                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Claude Code              6 hrs 47 mins       █████████████░░░░░░░░░░░░   51.55 % 
+Termius                  3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Terminal                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Vim                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,7 +179,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 02:43:05 UTC
+ Last Updated on 06/09/2026 02:38:57 UTC
 <!--END_SECTION:waka-->
 
 ---
