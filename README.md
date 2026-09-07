@@ -144,20 +144,17 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    12 hrs 54 mins      ████████████████████████░   97.91 % 
-conf                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    11 hrs 40 mins      █████████████████████████   98.13 % 
+conf                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 47 mins       █████████████░░░░░░░░░░░░   51.55 % 
-Termius                  3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Terminal                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Vim                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Claude Code              6 hrs 32 mins       ██████████████░░░░░░░░░░░   54.97 % 
+Termius                  3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Terminal                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Vim                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Mac                      13 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,7 +176,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 02:38:57 UTC
+ Last Updated on 07/09/2026 02:38:08 UTC
 <!--END_SECTION:waka-->
 
 ---
