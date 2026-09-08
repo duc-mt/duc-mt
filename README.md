@@ -144,17 +144,17 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    11 hrs 40 mins      █████████████████████████   98.13 % 
-conf                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                    9 hrs 28 mins       ████████████████████████░   97.70 % 
+conf                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 32 mins       ██████████████░░░░░░░░░░░   54.97 % 
-Termius                  3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Terminal                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Vim                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Claude Code              5 hrs 55 mins       ███████████████░░░░░░░░░░   61.13 % 
+Termius                  3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Terminal                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Vim                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Mac                      11 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -176,7 +176,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 02:38:08 UTC
+ Last Updated on 08/09/2026 02:52:09 UTC
 <!--END_SECTION:waka-->
 
 ---
