@@ -144,14 +144,15 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    5 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 17 mins       ██████████████████░░░░░░░   72.91 % 
-Termius                  1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Claude Code              1 hr 53 mins        ███████████████████░░░░░░   77.97 % 
+Termius                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -173,7 +174,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 02:53:51 UTC
+ Last Updated on 13/09/2026 02:52:45 UTC
 <!--END_SECTION:waka-->
 
 ---
