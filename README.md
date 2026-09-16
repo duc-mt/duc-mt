@@ -107,7 +107,7 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 **🐱 My GitHub Data** 
 
-> 📦 252.1 kB Used in GitHub's Storage 
+> 📦 252.2 kB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2026
  > 
@@ -144,15 +144,15 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    5 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 40 mins       ████████████████████░░░░░   79.41 % 
-Termius                  1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              5 hrs 13 mins       ████████████████████░░░░░   80.89 % 
+Termius                  1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -174,7 +174,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 03:08:53 UTC
+ Last Updated on 16/09/2026 03:05:42 UTC
 <!--END_SECTION:waka-->
 
 ---
