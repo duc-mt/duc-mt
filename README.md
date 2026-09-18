@@ -99,9 +99,9 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -144,16 +144,16 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    10 hrs 1 min        █████████████████████████   99.63 % 
+Other                    9 hrs 57 mins       █████████████████████████   99.63 % 
 INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 46 mins       █████████████████░░░░░░░░   67.34 % 
-Termius                  3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Claude Code              6 hrs 28 mins       ████████████████░░░░░░░░░   64.76 % 
+Termius                  3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
+Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Mac                      10 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -175,7 +175,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 03:08:52 UTC
+ Last Updated on 18/09/2026 02:58:13 UTC
 <!--END_SECTION:waka-->
 
 ---
