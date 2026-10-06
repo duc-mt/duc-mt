@@ -99,9 +99,9 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -109,9 +109,9 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 **🐱 My GitHub Data** 
 
-> 📦 281.2 kB Used in GitHub's Storage 
+> 📦 281.4 kB Used in GitHub's Storage 
  > 
-> 🏆 836 Contributions in the Year 2026
+> 🏆 841 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,21 +122,21 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2914 commits        ██████████░░░░░░░░░░░░░░░   38.78 % 
-🌆 Daytime                1958 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-🌃 Evening                2161 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌞 Morning                2915 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
+🌆 Daytime                1958 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+🌃 Evening                2166 commits        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
 🌙 Night                  482 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Tuesday                  1170 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Thursday                 861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Friday                   782 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Saturday                 878 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Sunday                   1582 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Monday                   1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Thursday                 861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Friday                   782 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Saturday                 878 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   1582 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 ```
 
 
@@ -146,34 +146,34 @@ Sunday                   1582 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    19 hrs 24 mins      ██████████████░░░░░░░░░░░   57.17 % 
-Markdown                 9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-CSV                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    20 hrs 59 mins      ███████████████░░░░░░░░░░   58.73 % 
+Markdown                 9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+HTML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+CSV                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
-Antigravity CLI          9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Termius                  9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Vim                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Claude Code              13 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
+Termius                  12 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+Antigravity CLI          9 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Vim                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Mac                      33 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 53 mins (61.58%)
+⏱ AI Coding Time: 20 hrs 25 mins (57.21%)
 
-✍️ 1,542 lines written by AI, 47 lines written by hand (97.04% AI-written)
+✍️ 1,542 lines written by AI, 12 lines written by hand (99.23% AI-written)
 
-🔤 5,327,910 Input Tokens, 226,804 Output Tokens
+🔤 5,506,723 Input Tokens, 234,512 Output Tokens
 
-💵 $6.37 Estimated AI Cost This Week
+💵 $6.74 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 580 AI Prompts
+🧠 75 AI Sessions, 512 AI Prompts
 
 Gemini                   1,300 lines         █████████████████████░░░░   84.31 % 
 Antigravity-Cli          242 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
@@ -182,10 +182,10 @@ Claude                   0 lines             ░░░░░░░░░░░�
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.04% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
+🤖 AI-Driven — 99.23% of written lines came from AI
+📝 Concise Prompter — average 292 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.22% of changed lines were hand-edited
+🚀 High AI Trust — 1.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -201,7 +201,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 03:48:01 UTC
+ Last Updated on 06/10/2026 04:36:04 UTC
 <!--END_SECTION:waka-->
 
 ---
