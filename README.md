@@ -99,9 +99,9 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -109,9 +109,9 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 
 **🐱 My GitHub Data** 
 
-> 📦 281.4 kB Used in GitHub's Storage 
+> 📦 288.4 kB Used in GitHub's Storage 
  > 
-> 🏆 841 Contributions in the Year 2026
+> 🏆 843 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,19 +122,19 @@ I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2915 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
-🌆 Daytime                1958 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌃 Evening                2166 commits        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌞 Morning                2916 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
+🌆 Daytime                1959 commits        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+🌃 Evening                2166 commits        ███████░░░░░░░░░░░░░░░░░░   28.79 % 
 🌙 Night                  482 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Tuesday                  1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Thursday                 861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Friday                   782 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Monday                   1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Tuesday                  1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Wednesday                1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Thursday                 861 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Friday                   782 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 Saturday                 878 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 Sunday                   1582 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 ```
@@ -146,46 +146,45 @@ Sunday                   1582 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    20 hrs 59 mins      ███████████████░░░░░░░░░░   58.73 % 
-Markdown                 9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-HTML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-CSV                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    20 hrs 16 mins      ███████████████░░░░░░░░░░   59.63 % 
+Markdown                 8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+HTML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+CSV                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
-Termius                  12 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Antigravity CLI          9 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Vim                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Claude Code              12 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.92 % 
+Termius                  12 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.10 % 
+Antigravity CLI          8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Vim                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      35 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 25 mins (57.21%)
+⏱ AI Coding Time: 18 hrs 12 mins (53.6%)
 
 ✍️ 1,542 lines written by AI, 12 lines written by hand (99.23% AI-written)
 
 🔤 5,506,723 Input Tokens, 234,512 Output Tokens
 
-💵 $6.74 Estimated AI Cost This Week
+💵 $6.15 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 512 AI Prompts
+🧠 63 AI Sessions, 439 AI Prompts
 
 Gemini                   1,300 lines         █████████████████████░░░░   84.31 % 
 Antigravity-Cli          242 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.23% of written lines came from AI
-📝 Concise Prompter — average 292 characters per prompt
+📝 Concise Prompter — average 304 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.85% of changed lines were hand-edited
+🚀 High AI Trust — 1.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -201,7 +200,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 04:36:04 UTC
+ Last Updated on 07/10/2026 04:01:52 UTC
 <!--END_SECTION:waka-->
 
 ---
