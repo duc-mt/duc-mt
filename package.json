@@ -1,7 +1,7 @@
 {
   "name": "duc-mt",
   "version": "1.0.11",
-  "description": "Terminal business card for Duc Mai — Network Engineer",
+  "description": "Terminal business card for Mai Tan Duc — Network Engineer",
   "type": "module",
   "main": "card.js",
   "bin": {
@@ -33,6 +33,6 @@
     "network-engineer",
     "duc-mt"
   ],
-  "author": "Duc Mai <ducmai.network@gmail.com> (https://ducmt.netlify.app/)",
+  "author": "Mai Tan Duc <ducmai.network@gmail.com> (https://ducmt.netlify.app/)",
   "license": "ISC"
 }

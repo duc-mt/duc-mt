@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Duc Mai – Network Engineer & Open-Source Contributor" />
+  <img src="assets/banner.png" alt="Mai Tan Duc – Network Engineer & Open-Source Contributor" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 > *"I'm a fixer. I fixed it."* — Moss, The IT Crowd (and also me, after a 3-hour BGP debugging session)
 
-I'm **Duc Mai** — a Network Engineer based in Vietnam who builds and automates resilient networks, writes about what I learn, and contributes to open-source along the way.
+I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and automates resilient networks, writes about what I learn, and contributes to open-source along the way.
 
 - 🎓 Network Engineer | Open-Source Contributor | Technical Blogger
 - 🔭 Currently working toward **CCIE EI** and **CEH**.
