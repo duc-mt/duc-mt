@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: ⤵️ Pull in @tanducmai Activities
+      - name: ⤵️ Pull in @duc-mt Activities
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
