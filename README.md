@@ -85,11 +85,6 @@ I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and autom
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duc-mt&theme=tokyo-night&hide_border=true&area=false&point=bf91f3&line=bf91f3&radius=6"
-       alt="Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/duc-mt/duc-mt/output/github-contribution-grid-snake-dark.svg"
        alt="contribution snake" />
 </p>
