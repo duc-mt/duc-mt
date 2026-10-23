@@ -96,7 +96,7 @@ I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and autom
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,7 +106,7 @@ I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and autom
 
 > 📦 302.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,476 Contributions in the Year 2026
+> 🏆 2,477 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +118,7 @@ I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and autom
 
 ```text
 🌞 Morning                4851 commits        ███████████░░░░░░░░░░░░░░   42.39 % 
-🌆 Daytime                2757 commits        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌆 Daytime                2758 commits        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
 🌃 Evening                2684 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
 🌙 Night                  1152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
@@ -128,7 +128,7 @@ I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and autom
 Monday                   1656 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 Tuesday                  1544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Wednesday                1593 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 1573 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Thursday                 1574 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 Friday                   1465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 Saturday                 1832 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 Sunday                   1781 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
@@ -141,45 +141,45 @@ Sunday                   1781 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    20 hrs 2 mins       ████████████████░░░░░░░░░   64.64 % 
-Markdown                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Python                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Go                       1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    18 hrs 31 mins      ████████████████░░░░░░░░░   65.23 % 
+Markdown                 3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Go                       1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Git Config               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Antigravity CLI          14 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.29 % 
-Bash                     7 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Termius                  6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Claude Code              2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Antigravity CLI          13 hrs 44 mins      ████████████░░░░░░░░░░░░░   48.38 % 
+Bash                     6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Termius                  5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Claude Code              1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    17 hrs 43 mins      ██████████████░░░░░░░░░░░   57.15 % 
-Mac                      13 hrs 17 mins      ███████████░░░░░░░░░░░░░░   42.85 % 
+Linux                    17 hrs 21 mins      ███████████████░░░░░░░░░░   61.11 % 
+Mac                      11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 55 mins (67.48%)
+⏱ AI Coding Time: 19 hrs 51 mins (69.93%)
 
 ✍️ 1,105 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 25,389,635 Input Tokens, 1,610,845 Output Tokens
+🔤 30,935,575 Input Tokens, 2,105,474 Output Tokens
 
-💵 $68.31 Estimated AI Cost This Week
+💵 $87.23 Estimated AI Cost This Week
 
-🧠 105 AI Sessions, 774 AI Prompts
+🧠 103 AI Sessions, 772 AI Prompts
 
-Gemini                   300 lines           █████████████████████████   100.00 % 
+Gemini                   1,105 lines         █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
+📝 Concise Prompter — average 147 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -197,7 +197,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 03:06:31 UTC
+ Last Updated on 23/10/2026 03:10:36 UTC
 <!--END_SECTION:waka-->
 
 ---
