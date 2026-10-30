@@ -96,7 +96,7 @@ I'm **Mai Tan Duc** — a Network Engineer based in Vietnam who builds and autom
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -141,36 +141,36 @@ Sunday                   1809 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    28 hrs 58 mins      ██████████████████████░░░   87.52 % 
-CSV                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Other                    29 hrs 4 mins       ██████████████████████░░░   87.56 % 
+CSV                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Antigravity CLI          16 hrs 56 mins      █████████████░░░░░░░░░░░░   51.17 % 
-Bash                     7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Termius                  5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Claude Code              2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Vim                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Antigravity CLI          16 hrs 58 mins      █████████████░░░░░░░░░░░░   51.10 % 
+Bash                     7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Termius                  5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Claude Code              2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Vim                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Linux                    22 hrs 38 mins      █████████████████░░░░░░░░   68.40 % 
-Mac                      10 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Linux                    22 hrs 38 mins      █████████████████░░░░░░░░   68.18 % 
+Mac                      10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 33 mins (74.17%)
+⏱ AI Coding Time: 24 hrs 43 mins (74.46%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 7,396,268 Input Tokens, 124,243 Output Tokens
+🔤 7,245,686 Input Tokens, 121,694 Output Tokens
 
-💵 $16.91 Estimated AI Cost This Week
+💵 $16.58 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 825 AI Prompts
+🧠 112 AI Sessions, 832 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -180,7 +180,7 @@ Oss                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 296 characters per prompt
+📝 Concise Prompter — average 298 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -198,7 +198,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 04:07:41 UTC
+ Last Updated on 30/10/2026 04:09:54 UTC
 <!--END_SECTION:waka-->
 
 ---
